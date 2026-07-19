@@ -1,0 +1,762 @@
+competition,date,weight,contest_code,winner,white,blue,country_white,country_blue,time_seconds,technique,score_type,tag_group
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0001,OBERAN Iva,OBERAN Iva,PRIMO Kerem,Croatia,Israel,45.27,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0001,OBERAN Iva,OBERAN Iva,PRIMO Kerem,Croatia,Israel,123.53,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0001,OBERAN Iva,OBERAN Iva,PRIMO Kerem,Croatia,Israel,234.52,Cancel Waza-ari,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0001,OBERAN Iva,OBERAN Iva,PRIMO Kerem,Croatia,Israel,234.52,Ura-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0001,OBERAN Iva,OBERAN Iva,PRIMO Kerem,Croatia,Israel,340.01,Cancel Yuko,Ippon,123
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0001,OBERAN Iva,OBERAN Iva,PRIMO Kerem,Croatia,Israel,340.01,Sumi-gaeshi,Ippon,31
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0002,LEE Yoojin,GANBAATAR Byambasuren,LEE Yoojin,Mongolia,Republic of Korea,407.77,Ko-uchi-makikomi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0002,DEBERDT Gaetane,DEBERDT Gaetane,SANCHEZ BENITEZ Ariela,France,Spain,187.97,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0002,DEBERDT Gaetane,DEBERDT Gaetane,SANCHEZ BENITEZ Ariela,France,Spain,247.04,Cancel Waza-ari,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0002,DEBERDT Gaetane,DEBERDT Gaetane,SANCHEZ BENITEZ Ariela,France,Spain,247.04,Yoko-guruma,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0002,DEBERDT Gaetane,DEBERDT Gaetane,SANCHEZ BENITEZ Ariela,France,Spain,301.05,Tomoe-nage,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0002,DEBERDT Gaetane,DEBERDT Gaetane,SANCHEZ BENITEZ Ariela,France,Spain,311.06,Kuzure-kesa-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0002,DEBERDT Gaetane,DEBERDT Gaetane,SANCHEZ BENITEZ Ariela,France,Spain,311.06,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0002,PETERSEN POLLARD Kelly,YANG Yuanjia,PETERSEN POLLARD Kelly,People's Republic of China,Great Britain,228.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0002,PETERSEN POLLARD Kelly,YANG Yuanjia,PETERSEN POLLARD Kelly,People's Republic of China,Great Britain,228.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0002,SOLIMAN Safa,SOLIMAN Safa,KIM Soomin,Egypt,Republic of Korea,465.03,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0002,BASILE Fabio,GREEN Joshua,BASILE Fabio,Ireland,Italy,194.29,De-ashi-harai,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0002,BONFERRONI Aurelien,TOJIEV Arslonbek,BONFERRONI Aurelien,Uzbekistan,Switzerland,97.23,Ko-uchi-makikomi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0002,BONFERRONI Aurelien,TOJIEV Arslonbek,BONFERRONI Aurelien,Uzbekistan,Switzerland,171.23,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0002,BAATHE Karl,BAATHE Karl,ZDRALE Lazar,Sweden,Serbia,337.04,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0002,BASHAEV Tamerlan,LI Ruixuan,BASHAEV Tamerlan,People's Republic of China,Russian Federation,108.24,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0002,BASHAEV Tamerlan,LI Ruixuan,BASHAEV Tamerlan,People's Republic of China,Russian Federation,123.00,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0002,BASHAEV Tamerlan,LI Ruixuan,BASHAEV Tamerlan,People's Republic of China,Russian Federation,123.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0003,DUDINA Kristina,MALCA Tamar,DUDINA Kristina,Israel,Russian Federation,53.02,Ura-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0003,DUDINA Kristina,MALCA Tamar,DUDINA Kristina,Israel,Russian Federation,86.02,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0003,LILUASHVILI Dali,LILUASHVILI Dali,ALIZADA Fidan,Russian Federation,Azerbaijan,99.23,Sode-tsurikomi-goshi,Ippon,30
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0003,YULDOSHOVA Shirinjon,AGHAYEVA Sudaba,YULDOSHOVA Shirinjon,Azerbaijan,Uzbekistan,7.80,Fusen-Gachi,Ippon,121
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0003,STARTSEVA Elis,STARTSEVA Elis,RADIC Tina,Russian Federation,Croatia,152.08,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0003,STARTSEVA Elis,STARTSEVA Elis,RADIC Tina,Russian Federation,Croatia,152.08,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0003,NAIRNE Ethan,KLACAR Robert,NAIRNE Ethan,Croatia,Great Britain,53.57,Illegal-Grip-Breaking,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0003,NAIRNE Ethan,KLACAR Robert,NAIRNE Ethan,Croatia,Great Britain,85.32,Sumi-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0003,MENDIOLA IZQUIETA Jose Maria,MENDIOLA IZQUIETA Jose Maria,LIMA David,Spain,Brazil,161.28,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0003,MENDIOLA IZQUIETA Jose Maria,MENDIOLA IZQUIETA Jose Maria,LIMA David,Spain,Brazil,436.00,Yoko-shiho-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0003,MENDIOLA IZQUIETA Jose Maria,MENDIOLA IZQUIETA Jose Maria,LIMA David,Spain,Brazil,436.00,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0003,KUMRIC Zlatko,BARRATT Oliver,KUMRIC Zlatko,Great Britain,Croatia,113.04,Sasae-tsurikomi-ashi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0003,KUMRIC Zlatko,BARRATT Oliver,KUMRIC Zlatko,Great Britain,Croatia,136.05,Sumi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0003,KUMRIC Zlatko,BARRATT Oliver,KUMRIC Zlatko,Great Britain,Croatia,150.00,Kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0003,KUMRIC Zlatko,BARRATT Oliver,KUMRIC Zlatko,Great Britain,Croatia,150.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0003,SORDYL Jakub,SORDYL Jakub,ABRAMOV Erik,Poland,Germany,99.01,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0003,SORDYL Jakub,SORDYL Jakub,ABRAMOV Erik,Poland,Germany,149.05,Uki-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0003,SORDYL Jakub,SORDYL Jakub,ABRAMOV Erik,Poland,Germany,227.81,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0003,SORDYL Jakub,SORDYL Jakub,ABRAMOV Erik,Poland,Germany,325.05,Kuzure-kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0003,SORDYL Jakub,SORDYL Jakub,ABRAMOV Erik,Poland,Germany,325.05,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0004,SLAZOK Wiktoria,SLAZOK Wiktoria,RODRIGUEZ SALVADOR Mireia,Poland,Spain,85.69,Cancel Yuko,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0004,SLAZOK Wiktoria,SLAZOK Wiktoria,RODRIGUEZ SALVADOR Mireia,Poland,Spain,85.69,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0004,SLAZOK Wiktoria,SLAZOK Wiktoria,RODRIGUEZ SALVADOR Mireia,Poland,Spain,307.01,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0004,SLAZOK Wiktoria,SLAZOK Wiktoria,RODRIGUEZ SALVADOR Mireia,Poland,Spain,307.01,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0004,CAPANNI DIAS Thauany David,LIN Qianyi,CAPANNI DIAS Thauany David,People's Republic of China,Italy,27.73,Okuri-eri-jime,Ippon,27
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0004,KURBANBAEVA Iriskhon,KURBANBAEVA Iriskhon,TOISHIBEKOVA Aida,Uzbekistan,Kazakhstan,220.80,Tani-otoshi,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0004,MAJANOV Baymyrat,CHAI Haozhuo,MAJANOV Baymyrat,People's Republic of China,Turkmenistan,209.01,Ura-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0004,MAJANOV Baymyrat,CHAI Haozhuo,MAJANOV Baymyrat,People's Republic of China,Turkmenistan,239.00,Cancel Yuko,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0004,MAJANOV Baymyrat,CHAI Haozhuo,MAJANOV Baymyrat,People's Republic of China,Turkmenistan,239.00,O-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0004,MAJANOV Baymyrat,CHAI Haozhuo,MAJANOV Baymyrat,People's Republic of China,Turkmenistan,258.03,Kuzure-kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0004,MAJANOV Baymyrat,CHAI Haozhuo,MAJANOV Baymyrat,People's Republic of China,Turkmenistan,258.03,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0004,HEGYI Stephan,BAEK Dusan,HEGYI Stephan,Republic of Korea,Austria,32.74,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0004,HEGYI Stephan,BAEK Dusan,HEGYI Stephan,Republic of Korea,Austria,35.66,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0004,HEGYI Stephan,BAEK Dusan,HEGYI Stephan,Republic of Korea,Austria,123.22,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0004,HEGYI Stephan,BAEK Dusan,HEGYI Stephan,Republic of Korea,Austria,194.94,Sasae-tsurikomi-ashi,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0005,HAMIDOVA Shafag,ABUZHAKYNOVA Abiba,HAMIDOVA Shafag,Kazakhstan,Azerbaijan,25.80,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0005,HAMIDOVA Shafag,ABUZHAKYNOVA Abiba,HAMIDOVA Shafag,Kazakhstan,Azerbaijan,222.02,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0005,HAMIDOVA Shafag,ABUZHAKYNOVA Abiba,HAMIDOVA Shafag,Kazakhstan,Azerbaijan,266.74,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0005,FAZLIU Laura,FAZLIU Laura,BAUER Sara-Joy,Kosovo,Germany,41.03,Uchi-mata,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0005,FAZLIU Laura,FAZLIU Laura,BAUER Sara-Joy,Kosovo,Germany,128.71,O-uchi-gaeshi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0005,FAZLIU Laura,FAZLIU Laura,BAUER Sara-Joy,Kosovo,Germany,248.49,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0005,FAZLIU Laura,FAZLIU Laura,BAUER Sara-Joy,Kosovo,Germany,264.22,Uchi-mata,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0005,HUANG Fuchun,HUANG Fuchun,TSERENBAT Gan-Erdene,People's Republic of China,Mongolia,538.28,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0006,XIE Hongyan,RODONAIA Julieta,XIE Hongyan,Georgia,People's Republic of China,430.54,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0006,XIE Hongyan,RODONAIA Julieta,XIE Hongyan,Georgia,People's Republic of China,430.54,O-uchi-gari,No score,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0006,XIE Hongyan,RODONAIA Julieta,XIE Hongyan,Georgia,People's Republic of China,599.06,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0006,XIE Hongyan,RODONAIA Julieta,XIE Hongyan,Georgia,People's Republic of China,599.06,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0006,GERASIMOVA Iuna,EASTON Tinka,GERASIMOVA Iuna,Australia,Russian Federation,341.44,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0006,GERASIMOVA Iuna,EASTON Tinka,GERASIMOVA Iuna,Australia,Russian Federation,423.28,O-uchi-gaeshi,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0006,BUDAK Aysenur,HUANG Yueying,BUDAK Aysenur,People's Republic of China,Türkiye,22.54,Sode-tsurikomi-goshi,Ippon,30
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0006,YILDIZ Ozlem,YILDIZ Ozlem,YUE Kangning,Türkiye,People's Republic of China,33.27,Sode-tsurikomi-goshi,Yuko,30
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0006,YILDIZ Ozlem,YILDIZ Ozlem,YUE Kangning,Türkiye,People's Republic of China,204.76,O-goshi,Yuko,30
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0006,SOMKHISHVILI Sophio,ENKHBAYAR Enkhzul,SOMKHISHVILI Sophio,Mongolia,Georgia,320.02,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0006,SOMKHISHVILI Sophio,ENKHBAYAR Enkhzul,SOMKHISHVILI Sophio,Mongolia,Georgia,348.00,Kuzure-kesa-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0006,SOMKHISHVILI Sophio,ENKHBAYAR Enkhzul,SOMKHISHVILI Sophio,Mongolia,Georgia,348.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0006,NAERT Olivier,NAERT Olivier,GURBANBERDIYEV Ygtyyar,Belgium,Turkmenistan,97.97,Kata-Guruma,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0006,NAERT Olivier,NAERT Olivier,GURBANBERDIYEV Ygtyyar,Belgium,Turkmenistan,113.04,Kuzure-kami-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0006,NAERT Olivier,NAERT Olivier,GURBANBERDIYEV Ygtyyar,Belgium,Turkmenistan,113.04,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0006,ELBAZ Yehonatan,ELBAZ Yehonatan,LIN Gaohui,Israel,People's Republic of China,231.77,Hikikomi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0006,ELBAZ Yehonatan,ELBAZ Yehonatan,LIN Gaohui,Israel,People's Republic of China,264.55,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0006,HERKOVIC Nace,HERKOVIC Nace,NURKOVIC Jahja,Slovenia,Montenegro,125.95,Illegal-Grip-Breaking,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0006,HERKOVIC Nace,HERKOVIC Nace,NURKOVIC Jahja,Slovenia,Montenegro,375.98,Sumi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0006,SIVAN Roy,SANTAMARIA RODRIGUEZ Aharon,SIVAN Roy,Spain,Israel,197.01,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0006,ARSENIE Rares,BIRZHANOV Askar,ARSENIE Rares,Kazakhstan,Romania,330.00,Kuzure-kami-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0006,ARSENIE Rares,BIRZHANOV Askar,ARSENIE Rares,Kazakhstan,Romania,330.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0006,AGRO Sylvain Lorenzo,LIN Dong,AGRO Sylvain Lorenzo,People's Republic of China,Italy,165.00,Tani-otoshi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0007,BEDER Tugce,BEDER Tugce,IOVINO Anna,Türkiye,Italy,106.26,Ko-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0007,BEDER Tugce,BEDER Tugce,IOVINO Anna,Türkiye,Italy,142.01,Tate-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0007,BEDER Tugce,BEDER Tugce,IOVINO Anna,Türkiye,Italy,142.01,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0007,SIMIC Nina,SIMIC Nina,TAIBI Chaimae,Croatia,Morocco,56.27,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0007,SIMIC Nina,SIMIC Nina,TAIBI Chaimae,Croatia,Morocco,213.03,Hikikomi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0007,SIMIC Nina,SIMIC Nina,TAIBI Chaimae,Croatia,Morocco,227.00,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0007,SIMIC Nina,SIMIC Nina,TAIBI Chaimae,Croatia,Morocco,227.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0007,SOBIERAJSKA Katarzyna,SOBIERAJSKA Katarzyna,GOSHEN Maya,Poland,Israel,61.00,Illegal-Grip-Breaking,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0007,SOBIERAJSKA Katarzyna,SOBIERAJSKA Katarzyna,GOSHEN Maya,Poland,Israel,125.24,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0007,SOBIERAJSKA Katarzyna,SOBIERAJSKA Katarzyna,GOSHEN Maya,Poland,Israel,269.23,O-soto-otoshi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0007,SOBIERAJSKA Katarzyna,SOBIERAJSKA Katarzyna,GOSHEN Maya,Poland,Israel,442.26,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0007,SKERLEV Victor,SKERLEV Victor,GOBERT Maxime,Bulgaria,France,379.24,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0007,SKERLEV Victor,SKERLEV Victor,GOBERT Maxime,Bulgaria,France,502.49,Sumi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0007,ZHUBANAZAR Abylaikhan,ZHUBANAZAR Abylaikhan,ZARAGKAS Aris,Kazakhstan,Greece,93.82,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0007,ZHUBANAZAR Abylaikhan,ZHUBANAZAR Abylaikhan,ZARAGKAS Aris,Kazakhstan,Greece,475.83,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0007,ZHUBANAZAR Abylaikhan,ZHUBANAZAR Abylaikhan,ZARAGKAS Aris,Kazakhstan,Greece,475.83,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0007,SANGARIEV Adam,SANGARIEV Adam,REYES Kyle,Russian Federation,Canada,131.66,Tani-otoshi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0007,SANGARIEV Adam,SANGARIEV Adam,REYES Kyle,Russian Federation,Canada,218.23,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0007,PUUMALAINEN Martti,PUUMALAINEN Martti,LAHBOUB Mohammed,Finland,Morocco,120.25,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0007,PUUMALAINEN Martti,PUUMALAINEN Martti,LAHBOUB Mohammed,Finland,Morocco,120.25,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0008,ANNIS Morgane,ANNIS Morgane,MURODOVA Sevinch,France,Uzbekistan,316.69,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0008,ANNIS Morgane,ANNIS Morgane,MURODOVA Sevinch,France,Uzbekistan,350.02,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0008,TANIOKA Narumi,TANIOKA Narumi,NURULLOEVA Marjona,Japan,Uzbekistan,339.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0008,TANIOKA Narumi,TANIOKA Narumi,NURULLOEVA Marjona,Japan,Uzbekistan,339.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0008,PARLATI Manuel,LI Zan,PARLATI Manuel,People's Republic of China,Italy,54.01,Hikikomi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0008,PARLATI Manuel,LI Zan,PARLATI Manuel,People's Republic of China,Italy,163.46,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0008,KROUSSANIOTAKIS Georgios,JEDRZEJEWSKI Michal,KROUSSANIOTAKIS Georgios,Poland,Cyprus,73.24,Hikikomi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0008,KROUSSANIOTAKIS Georgios,JEDRZEJEWSKI Michal,KROUSSANIOTAKIS Georgios,Poland,Cyprus,223.50,Ippon-seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0008,DOBRE Darius,ANTONIOU Giannis,DOBRE Darius,Cyprus,Romania,532.77,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0009,BIFOV Idar,BIFOV Idar,KARATAYEV Deniz,Russian Federation,Turkmenistan,174.57,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0010,MUMINOVIQ Erza,MUMINOVIQ Erza,JON Su Yon,Kosovo,Democratic People's Republic of Korea,135.99,Cancel Yuko,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0010,MUMINOVIQ Erza,MUMINOVIQ Erza,JON Su Yon,Kosovo,Democratic People's Republic of Korea,135.99,Sumi-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0010,MUMINOVIQ Erza,MUMINOVIQ Erza,JON Su Yon,Kosovo,Democratic People's Republic of Korea,321.97,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0010,MUMINOVIQ Erza,MUMINOVIQ Erza,JON Su Yon,Kosovo,Democratic People's Republic of Korea,343.78,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0010,KIM Hyon A,WANG Nan,KIM Hyon A,People's Republic of China,Democratic People's Republic of Korea,247.72,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0010,MAKRETSKAYA Yana,SHARMA Unnati,MAKRETSKAYA Yana,India,Belarus,238.48,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0010,POHL Dena,ZHANG Yiming,POHL Dena,People's Republic of China,Germany,135.74,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0010,POHL Dena,ZHANG Yiming,POHL Dena,People's Republic of China,Germany,157.28,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0010,POHL Dena,ZHANG Yiming,POHL Dena,People's Republic of China,Germany,157.28,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0010,LIU Yu,LIU Yu,SU Pin-Tzu,People's Republic of China,Chinese Taipei,228.28,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0010,TUVSHINTUR Tumenjargal,RI Nam Yong,TUVSHINTUR Tumenjargal,Democratic People's Republic of Korea,Mongolia,134.03,Yoko-shiho-gatame,Waza-ari,25
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0010,TUVSHINTUR Tumenjargal,RI Nam Yong,TUVSHINTUR Tumenjargal,Democratic People's Republic of Korea,Mongolia,134.03,Osaekomi,Waza-ari,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0010,TUVSHINTUR Tumenjargal,RI Nam Yong,TUVSHINTUR Tumenjargal,Democratic People's Republic of Korea,Mongolia,214.51,Tani-otoshi,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0010,OLIN Valtteri,OLIN Valtteri,AL SHEHADA Omar,Finland,Syrian Arab Republic,50.08,Yoko-shiho-gatame,Waza-ari,25
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0010,OLIN Valtteri,OLIN Valtteri,AL SHEHADA Omar,Finland,Syrian Arab Republic,50.08,Osaekomi,Waza-ari,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0010,OLIN Valtteri,OLIN Valtteri,AL SHEHADA Omar,Finland,Syrian Arab Republic,74.00,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0010,OLIN Valtteri,OLIN Valtteri,AL SHEHADA Omar,Finland,Syrian Arab Republic,74.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0010,GOCHILAIDZE Dimitri,JEAN Peter,GOCHILAIDZE Dimitri,France,Georgia,349.26,Uchi-mata-sukashi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0010,UDSILAURI George,SIBISAN Alexandru,UDSILAURI George,Romania,Germany,361.10,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0010,UDSILAURI George,SIBISAN Alexandru,UDSILAURI George,Romania,Germany,361.10,Ko-soto-gari,No score,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0010,UDSILAURI George,SIBISAN Alexandru,UDSILAURI George,Romania,Germany,587.26,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0010,UDSILAURI George,SIBISAN Alexandru,UDSILAURI George,Romania,Germany,648.53,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0010,UDSILAURI George,SIBISAN Alexandru,UDSILAURI George,Romania,Germany,688.57,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0010,UDSILAURI George,SIBISAN Alexandru,UDSILAURI George,Romania,Germany,717.06,Ko-soto-gake,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0010,DIABY Tieman,DIABY Tieman,BASSO Francesco,France,Italy,104.70,Uki-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0010,DIABY Tieman,DIABY Tieman,BASSO Francesco,France,Italy,220.81,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0011,STOLZE Friederike,STOLZE Friederike,KRIZA Anna,Germany,Hungary,67.00,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0011,STOLZE Friederike,STOLZE Friederike,KRIZA Anna,Germany,Hungary,317.02,Harai-makikomi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0011,LISHCHENKO Tamara,MURADOVA Yyldyz,LISHCHENKO Tamara,Turkmenistan,Russian Federation,66.00,O-soto-guruma,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0011,SONE Akira,AKTAS Emma-Melis,SONE Akira,Estonia,Japan,94.78,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0011,SHABIKHANOV Saikhan,SZULIK Szymon,SHABIKHANOV Saikhan,Poland,Russian Federation,193.49,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0011,SHABIKHANOV Saikhan,SZULIK Szymon,SHABIKHANOV Saikhan,Poland,Russian Federation,290.19,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0011,ARAPOV Aidar,VISAN Vlad,ARAPOV Aidar,Romania,Kazakhstan,66.53,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0011,ARAPOV Aidar,VISAN Vlad,ARAPOV Aidar,Romania,Kazakhstan,241.98,Cancel Yuko,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0011,ARAPOV Aidar,VISAN Vlad,ARAPOV Aidar,Romania,Kazakhstan,241.98,Kata-Guruma,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0011,ARAPOV Aidar,VISAN Vlad,ARAPOV Aidar,Romania,Kazakhstan,249.02,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0011,ARAPOV Aidar,VISAN Vlad,ARAPOV Aidar,Romania,Kazakhstan,249.02,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0011,KUCZERA Piotr,KUCZERA Piotr,BAYARTSENGEL Khuderchuluun,Poland,Mongolia,519.00,O-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0011,TERESINSKI Grzegorz,TERESINSKI Grzegorz,USUKHBAYAR Perenleijamts,Poland,Mongolia,61.93,Seoi-otoshi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0012,AZAK Merve,ESPADINHA Laura,AZAK Merve,France,Türkiye,176.23,Cancel Waza-ari,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0012,AZAK Merve,ESPADINHA Laura,AZAK Merve,France,Türkiye,176.23,Uki-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0012,AZAK Merve,ESPADINHA Laura,AZAK Merve,France,Türkiye,202.48,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0012,SEIKKULA Louna-Lumia,SEIKKULA Louna-Lumia,CABANA PEREZ Cristina,Finland,Spain,87.78,Kata-Guruma,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0012,IVANOVA Mariia,WOOD Gabriella,IVANOVA Mariia,Trinidad And Tobago,Russian Federation,28.93,Cancel Yuko,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0012,IVANOVA Mariia,WOOD Gabriella,IVANOVA Mariia,Trinidad And Tobago,Russian Federation,28.93,Ko-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0012,IVANOVA Mariia,WOOD Gabriella,IVANOVA Mariia,Trinidad And Tobago,Russian Federation,51.00,Tate-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0012,IVANOVA Mariia,WOOD Gabriella,IVANOVA Mariia,Trinidad And Tobago,Russian Federation,51.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0012,FERREIRA Giovani,FERREIRA Giovani,SHEN Yijie,Brazil,People's Republic of China,155.47,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0012,FIZEL Marius,LI Haiyang,FIZEL Marius,People's Republic of China,Slovakia,152.35,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0013,SZYMANSKA Angelika,SZYMANSKA Angelika,LIU Shuang,Poland,People's Republic of China,77.00,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0013,BRASNJOVIC Darko,VEG Zsombor,BRASNJOVIC Darko,Hungary,Serbia,539.11,Kata-Guruma,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0014,CID BALCELLS Jana,ALIYEVA Konul,CID BALCELLS Jana,Azerbaijan,Spain,158.50,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0014,CID BALCELLS Jana,ALIYEVA Konul,CID BALCELLS Jana,Azerbaijan,Spain,233.81,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0014,CID BALCELLS Jana,ALIYEVA Konul,CID BALCELLS Jana,Azerbaijan,Spain,250.79,Okuri-eri-jime,Ippon,27
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0014,KIM Jisu,KIM Jisu,KIM Ji Hye,Republic of Korea,Democratic People's Republic of Korea,51.57,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0014,KIM Jisu,KIM Jisu,KIM Ji Hye,Republic of Korea,Democratic People's Republic of Korea,88.54,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0014,KIM Jisu,KIM Jisu,KIM Ji Hye,Republic of Korea,Democratic People's Republic of Korea,230.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0014,KIM Jisu,KIM Jisu,KIM Ji Hye,Republic of Korea,Democratic People's Republic of Korea,230.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0014,MUN Song Hui,NARYNOVA Moldir,MUN Song Hui,Kazakhstan,Democratic People's Republic of Korea,298.34,Sumi-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0014,MUN Song Hui,NARYNOVA Moldir,MUN Song Hui,Kazakhstan,Democratic People's Republic of Korea,302.06,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0014,MUN Song Hui,NARYNOVA Moldir,MUN Song Hui,Kazakhstan,Democratic People's Republic of Korea,302.06,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0014,NIGMATOVA Umida,WOJTA Lilli Louise,NIGMATOVA Umida,Germany,Uzbekistan,66.91,Sumi-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0014,NIGMATOVA Umida,WOJTA Lilli Louise,NIGMATOVA Umida,Germany,Uzbekistan,123.01,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0014,NIGMATOVA Umida,WOJTA Lilli Louise,NIGMATOVA Umida,Germany,Uzbekistan,212.47,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0014,NIGMATOVA Umida,WOJTA Lilli Louise,NIGMATOVA Umida,Germany,Uzbekistan,300.02,Sumi-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0014,CILOGLU Bilal,CILOGLU Bilal,NYYAZLYYEV Ismayyl,Türkiye,Turkmenistan,279.73,Hikikomi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0014,CILOGLU Bilal,CILOGLU Bilal,NYYAZLYYEV Ismayyl,Türkiye,Turkmenistan,325.02,Ippon-seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0014,OYUNCHIMEG Shinebayar,AYHANOV Agajan,OYUNCHIMEG Shinebayar,Turkmenistan,Mongolia,46.80,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0014,OYUNCHIMEG Shinebayar,AYHANOV Agajan,OYUNCHIMEG Shinebayar,Turkmenistan,Mongolia,88.23,Cancel Waza-ari,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0014,OYUNCHIMEG Shinebayar,AYHANOV Agajan,OYUNCHIMEG Shinebayar,Turkmenistan,Mongolia,88.23,Tani-otoshi,No score,35
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0014,OYUNCHIMEG Shinebayar,AYHANOV Agajan,OYUNCHIMEG Shinebayar,Turkmenistan,Mongolia,161.26,Uchi-mata,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0014,MATASEJE Benjamin,GREGORY Max,MATASEJE Benjamin,Great Britain,Slovakia,463.10,Ko-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0015,VOROBEVA Marina,VOROBEVA Marina,XIE Mingfen,Russian Federation,People's Republic of China,68.20,Osaekomi,Waza-ari,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0015,VOROBEVA Marina,VOROBEVA Marina,XIE Mingfen,Russian Federation,People's Republic of China,103.97,Ude-garami,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0015,GALITSKAIA Kseniia,KROPSKA Natalia,GALITSKAIA Kseniia,Poland,Russian Federation,157.69,O-uchi-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0015,WROBLEWSKA Eliza,MICHAELIDOU Zanet,WROBLEWSKA Eliza,Cyprus,Poland,27.24,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0015,WROBLEWSKA Eliza,MICHAELIDOU Zanet,WROBLEWSKA Eliza,Cyprus,Poland,64.42,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0015,WROBLEWSKA Eliza,MICHAELIDOU Zanet,WROBLEWSKA Eliza,Cyprus,Poland,212.27,O-soto-gaeshi,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0015,MISHINER Yuli Alma,MISHINER Yuli Alma,SOUZA Beatriz,Israel,Brazil,124.20,Sode-tsurikomi-goshi,Waza-ari,30
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0015,MISHINER Yuli Alma,MISHINER Yuli Alma,SOUZA Beatriz,Israel,Brazil,139.26,Ura-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0015,MISHINER Yuli Alma,MISHINER Yuli Alma,SOUZA Beatriz,Israel,Brazil,139.26,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0015,HEYDER Maximilian,HEYDER Maximilian,SAAEV Iznaur,Germany,Russian Federation,506.58,Kata-Guruma,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0015,CHENG Lin,MAMMADOV Tofig,CHENG Lin,Azerbaijan,People's Republic of China,156.00,Kuzure-kami-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0015,CHENG Lin,MAMMADOV Tofig,CHENG Lin,Azerbaijan,People's Republic of China,156.00,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0015,CHENG Lin,MAMMADOV Tofig,CHENG Lin,Azerbaijan,People's Republic of China,233.29,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0015,CHENG Lin,MAMMADOV Tofig,CHENG Lin,Azerbaijan,People's Republic of China,284.33,Uki-otoshi,Waza-ari-awasete-ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0015,GABOR Aron,MA Yuxiang,GABOR Aron,People's Republic of China,Hungary,114.29,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0015,GABOR Aron,MA Yuxiang,GABOR Aron,People's Republic of China,Hungary,141.06,Tomoe-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0015,GABOR Aron,MA Yuxiang,GABOR Aron,People's Republic of China,Hungary,310.31,Tai-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0015,ELBAKIEV Georgii,CHARNIAK Maksim,ELBAKIEV Georgii,Belarus,United Arab Emirates,112.73,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0015,ELBAKIEV Georgii,CHARNIAK Maksim,ELBAKIEV Georgii,Belarus,United Arab Emirates,154.49,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0015,ELBAKIEV Georgii,CHARNIAK Maksim,ELBAKIEV Georgii,Belarus,United Arab Emirates,201.70,Cancel Yuko,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0015,SARSENBAEV Ernazar,SARSENBAEV Ernazar,ZHENG Ruixin,Uzbekistan,People's Republic of China,116.05,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0015,SARSENBAEV Ernazar,SARSENBAEV Ernazar,ZHENG Ruixin,Uzbekistan,People's Republic of China,138.71,Tomoe-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0015,SARSENBAEV Ernazar,SARSENBAEV Ernazar,ZHENG Ruixin,Uzbekistan,People's Republic of China,231.22,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0015,SARSENBAEV Ernazar,SARSENBAEV Ernazar,ZHENG Ruixin,Uzbekistan,People's Republic of China,246.51,Uki-waza,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0015,BATCHAEV Denis,BATCHAEV Denis,YIN Yongjie,Russian Federation,People's Republic of China,128.00,O-uchi-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0016,GHIGLIONE Giulia,GELDIYEVA Ejegyz,GHIGLIONE Giulia,Turkmenistan,Italy,103.30,Tai-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0016,GHIGLIONE Giulia,GELDIYEVA Ejegyz,GHIGLIONE Giulia,Turkmenistan,Italy,275.10,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0016,ZACHOVA Renata,ZACHOVA Renata,CIANO Raffaella Lelia,Czechia,Italy,57.30,O-uchi-gaeshi,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0016,ZACHOVA Renata,ZACHOVA Renata,CIANO Raffaella Lelia,Czechia,Italy,245.73,Tani-otoshi,Waza-ari-awasete-ippon,35
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0016,MARATOVA Nazgul,MARATOVA Nazgul,JIA Bingqian,Kazakhstan,People's Republic of China,231.98,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0016,MARATOVA Nazgul,MARATOVA Nazgul,JIA Bingqian,Kazakhstan,People's Republic of China,244.00,Kuzure-kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0016,MARATOVA Nazgul,MARATOVA Nazgul,JIA Bingqian,Kazakhstan,People's Republic of China,244.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0016,SIMIN Iosif,SIMIN Iosif,BAITAS Bakzhan,Israel,Kazakhstan,106.26,O-soto-makikomi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0016,SIMIN Iosif,SIMIN Iosif,BAITAS Bakzhan,Israel,Kazakhstan,122.00,Ushiro-kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0016,SIMIN Iosif,SIMIN Iosif,BAITAS Bakzhan,Israel,Kazakhstan,122.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0016,ZHOLDOSHKAZIEV Emirkhan,ZHOLDOSHKAZIEV Emirkhan,MESSE A BESSONG John,Kyrgyzstan,Canada,220.51,Cancel Waza-ari,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0017,HUI Xinran,HUI Xinran,LEE Yoojin,People's Republic of China,Republic of Korea,128.48,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0017,OBERAN Iva,OBERAN Iva,DEBERDT Gaetane,Croatia,France,74.54,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0017,OBERAN Iva,OBERAN Iva,DEBERDT Gaetane,Croatia,France,86.53,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0017,HERSHKO Raz,HERSHKO Raz,SOLIMAN Safa,Israel,Egypt,67.21,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0017,HERSHKO Raz,HERSHKO Raz,SOLIMAN Safa,Israel,Egypt,67.21,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0017,HERSHKO Raz,HERSHKO Raz,SOLIMAN Safa,Israel,Egypt,286.22,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0017,BAATHE Karl,SAVYTSKIY Anton,BAATHE Karl,Ukraine,Sweden,491.77,Ko-soto-gake,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0017,BASHAEV Tamerlan,KOKAURI Ushangi,BASHAEV Tamerlan,Azerbaijan,Russian Federation,196.02,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0017,BASHAEV Tamerlan,KOKAURI Ushangi,BASHAEV Tamerlan,Azerbaijan,Russian Federation,211.24,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0017,BASHAEV Tamerlan,KOKAURI Ushangi,BASHAEV Tamerlan,Azerbaijan,Russian Federation,211.24,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0018,DUDINA Kristina,DUDINA Kristina,SLAZOK Wiktoria,Russian Federation,Poland,247.50,Tsuri-goshi,Yuko,30
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0018,CAPANNI DIAS Thauany David,LILUASHVILI Dali,CAPANNI DIAS Thauany David,Russian Federation,Italy,177.20,Fingers-Interlocked,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0018,KUCHIMOVA Marjona,KUCHIMOVA Marjona,RIABCHENKO Alexandra,Uzbekistan,Russian Federation,54.01,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0018,KUCHIMOVA Marjona,KUCHIMOVA Marjona,RIABCHENKO Alexandra,Uzbekistan,Russian Federation,163.02,Harai-goshi-gaeshi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0018,STARTSEVA Elis,STARTSEVA Elis,KURBANBAEVA Iriskhon,Russian Federation,Uzbekistan,105.66,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0018,XUE Ziyang,YILDIZ Salih,XUE Ziyang,Türkiye,People's Republic of China,266.70,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0018,MROWCZYNSKI Wiktor,MROWCZYNSKI Wiktor,FAN Renchuan,Poland,People's Republic of China,154.99,Tomoe-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0018,MAKINEN Oskari,JUGDERGARAV Enkhtur,MAKINEN Oskari,Mongolia,Finland,156.20,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0018,MAKINEN Oskari,JUGDERGARAV Enkhtur,MAKINEN Oskari,Mongolia,Finland,331.00,Tani-otoshi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0018,MAJANOV Baymyrat,KUMRIC Zlatko,MAJANOV Baymyrat,Croatia,Turkmenistan,186.78,Soto-makikomi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0018,MAJANOV Baymyrat,KUMRIC Zlatko,MAJANOV Baymyrat,Croatia,Turkmenistan,264.57,Uki-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0018,HEGYI Stephan,SORDYL Jakub,HEGYI Stephan,Poland,Austria,203.93,Harai-goshi,Waza-ari,30
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0018,HEGYI Stephan,SORDYL Jakub,HEGYI Stephan,Poland,Austria,293.26,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0018,HEGYI Stephan,SORDYL Jakub,HEGYI Stephan,Poland,Austria,293.26,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0019,XIE Hongyan,HAMIDOVA Shafag,XIE Hongyan,Azerbaijan,People's Republic of China,248.00,Kuzure-kami-shiho-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0019,XIE Hongyan,HAMIDOVA Shafag,XIE Hongyan,Azerbaijan,People's Republic of China,248.00,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0019,XIE Hongyan,HAMIDOVA Shafag,XIE Hongyan,Azerbaijan,People's Republic of China,292.27,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0019,XIE Hongyan,HAMIDOVA Shafag,XIE Hongyan,Azerbaijan,People's Republic of China,292.27,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0019,PARDAYEVA Maysa,TAO Yuying,PARDAYEVA Maysa,People's Republic of China,Turkmenistan,153.55,Uki-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0019,PARDAYEVA Maysa,TAO Yuying,PARDAYEVA Maysa,People's Republic of China,Turkmenistan,236.00,Ura-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0019,PARDAYEVA Maysa,TAO Yuying,PARDAYEVA Maysa,People's Republic of China,Turkmenistan,236.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0019,FAZLIU Laura,FAZLIU Laura,YILDIZ Ozlem,Kosovo,Türkiye,95.25,Kansetsu waza from tachi waza,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0019,FAZLIU Laura,FAZLIU Laura,YILDIZ Ozlem,Kosovo,Türkiye,269.49,O-goshi,Ippon,30
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0019,NIU Xinran,NIU Xinran,SOMKHISHVILI Sophio,People's Republic of China,Georgia,39.53,Soto-makikomi,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0019,MA Yulin,YRYSBEKOV Khanbolot,MA Yulin,Kyrgyzstan,People's Republic of China,171.26,Tani-otoshi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0019,MA Yulin,YRYSBEKOV Khanbolot,MA Yulin,Kyrgyzstan,People's Republic of China,258.71,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0019,TOJIEV Elbek,DZITAC Ioan,TOJIEV Elbek,Romania,Uzbekistan,78.32,Tomoe-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0019,TOJIEV Elbek,DZITAC Ioan,TOJIEV Elbek,Romania,Uzbekistan,116.82,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0019,TOJIEV Elbek,DZITAC Ioan,TOJIEV Elbek,Romania,Uzbekistan,186.34,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0019,TOJIEV Elbek,DZITAC Ioan,TOJIEV Elbek,Romania,Uzbekistan,186.34,Tomoe-nage,No score,31
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0019,TOJIEV Elbek,DZITAC Ioan,TOJIEV Elbek,Romania,Uzbekistan,239.81,Tomoe-nage,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0019,HUANG Fuchun,HUANG Fuchun,ARSENIE Rares,People's Republic of China,Romania,118.66,Cancel Waza-ari,Ippon,123
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0019,HUANG Fuchun,HUANG Fuchun,ARSENIE Rares,People's Republic of China,Romania,118.66,Tani-otoshi,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0019,GAMZATKHANOV Dzhamal,GAMZATKHANOV Dzhamal,AGRO Sylvain Lorenzo,Azerbaijan,Italy,97.79,O-uchi-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0020,BEDER Tugce,BEDER Tugce,ANNIS Morgane,Türkiye,France,107.25,Seoi-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0020,BEDER Tugce,BEDER Tugce,ANNIS Morgane,Türkiye,France,152.46,Tomoe-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0020,TANIOKA Narumi,SIMIC Nina,TANIOKA Narumi,Croatia,Japan,46.29,Ko-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0020,TANIOKA Narumi,SIMIC Nina,TANIOKA Narumi,Croatia,Japan,61.05,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0020,TANIOKA Narumi,SIMIC Nina,TANIOKA Narumi,Croatia,Japan,61.05,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0020,AYIMAN Jinesinuer,AYIMAN Jinesinuer,SIMONETTI Erica,People's Republic of China,Italy,239.76,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0020,AYIMAN Jinesinuer,AYIMAN Jinesinuer,SIMONETTI Erica,People's Republic of China,Italy,270.49,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0020,HEBIB Mustafa,WANG Jiangnan,HEBIB Mustafa,People's Republic of China,Bosnia and Herzegovina,70.50,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0020,HEBIB Mustafa,WANG Jiangnan,HEBIB Mustafa,People's Republic of China,Bosnia and Herzegovina,98.00,Yoko-shiho-gatame,Waza-ari,25
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0020,HEBIB Mustafa,WANG Jiangnan,HEBIB Mustafa,People's Republic of China,Bosnia and Herzegovina,98.00,Osaekomi,Waza-ari,124
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0020,HEBIB Mustafa,WANG Jiangnan,HEBIB Mustafa,People's Republic of China,Bosnia and Herzegovina,122.08,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0020,HEBIB Mustafa,WANG Jiangnan,HEBIB Mustafa,People's Republic of China,Bosnia and Herzegovina,173.60,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0020,HEBIB Mustafa,WANG Jiangnan,HEBIB Mustafa,People's Republic of China,Bosnia and Herzegovina,265.78,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0020,SANGARIEV Adam,SANGARIEV Adam,KROUSSANIOTAKIS Georgios,Russian Federation,Cyprus,69.74,Kiken-gachi,Ippon,121
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0020,PUUMALAINEN Martti,PUUMALAINEN Martti,DOBRE Darius,Finland,Romania,91.52,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0020,PUUMALAINEN Martti,PUUMALAINEN Martti,DOBRE Darius,Finland,Romania,162.80,Seoi-otoshi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0021,ZHUANG Wenna,ZHUANG Wenna,MUMINOVIQ Erza,People's Republic of China,Kosovo,75.24,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0021,ZHUANG Wenna,ZHUANG Wenna,MUMINOVIQ Erza,People's Republic of China,Kosovo,154.78,Ko-soto-gake,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0021,ZHUANG Wenna,ZHUANG Wenna,MUMINOVIQ Erza,People's Republic of China,Kosovo,253.00,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0021,ZHUANG Wenna,ZHUANG Wenna,MUMINOVIQ Erza,People's Republic of China,Kosovo,253.00,O-uchi-gari,No score,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0021,MAKRETSKAYA Yana,PIOVESANA Lubjana,MAKRETSKAYA Yana,Austria,Belarus,104.79,Sumi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0021,MAKRETSKAYA Yana,PIOVESANA Lubjana,MAKRETSKAYA Yana,Austria,Belarus,233.31,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0021,FONTAINE Lea,FONTAINE Lea,LIU Yu,France,People's Republic of China,109.04,O-soto-makikomi,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0021,KRPALEK Lukas,KRPALEK Lukas,DIABY Tieman,Czechia,France,112.20,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0021,KRPALEK Lukas,KRPALEK Lukas,DIABY Tieman,Czechia,France,441.43,Uchi-mata,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0022,AZAK Merve,HAYDAROVA Laziza,AZAK Merve,Uzbekistan,Türkiye,50.05,Cancel Yuko,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0022,AZAK Merve,HAYDAROVA Laziza,AZAK Merve,Uzbekistan,Türkiye,50.05,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0022,AZAK Merve,HAYDAROVA Laziza,AZAK Merve,Uzbekistan,Türkiye,234.08,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0022,AZAK Merve,HAYDAROVA Laziza,AZAK Merve,Uzbekistan,Türkiye,234.08,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0022,AZAK Merve,HAYDAROVA Laziza,AZAK Merve,Uzbekistan,Türkiye,300.04,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0022,AZAK Merve,HAYDAROVA Laziza,AZAK Merve,Uzbekistan,Türkiye,300.04,O-uchi-gari,No score,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0022,STOLZE Friederike,STOLZE Friederike,SEIKKULA Louna-Lumia,Germany,Finland,204.76,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0022,STOLZE Friederike,STOLZE Friederike,SEIKKULA Louna-Lumia,Germany,Finland,256.47,Kiken-gachi,Ippon,121
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0022,SILVA Nauana,ONDEI Serena,SILVA Nauana,Italy,Brazil,222.05,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0022,SILVA Nauana,ONDEI Serena,SILVA Nauana,Italy,Brazil,222.05,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0022,SONE Akira,SONE Akira,IVANOVA Mariia,Japan,Russian Federation,99.66,Ashi-guruma,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0022,SONE Akira,SONE Akira,IVANOVA Mariia,Japan,Russian Federation,115.00,Kuzure-kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0022,SONE Akira,SONE Akira,IVANOVA Mariia,Japan,Russian Federation,115.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0022,RUEBO Jano,RUEBO Jano,SHAMURADOV Meylis,Germany,Turkmenistan,511.76,Sode-tsurikomi-goshi,Waza-ari,30
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0022,BIBITKO Itay,TARKOWSKI Fabrycjusz,BIBITKO Itay,Poland,Israel,57.01,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0022,BIBITKO Itay,TARKOWSKI Fabrycjusz,BIBITKO Itay,Poland,Israel,177.98,Uchi-mata,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0022,BU Hebilige,CRET Alex,BU Hebilige,Romania,People's Republic of China,170.28,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0022,BU Hebilige,CRET Alex,BU Hebilige,Romania,People's Republic of China,318.86,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0022,FERREIRA Giovani,KUCZERA Piotr,FERREIRA Giovani,Poland,Brazil,177.21,Kata-Guruma,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0022,FERREIRA Giovani,KUCZERA Piotr,FERREIRA Giovani,Poland,Brazil,243.78,Ko-soto-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0022,TERESINSKI Grzegorz,TERESINSKI Grzegorz,FIZEL Marius,Poland,Slovakia,389.76,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0022,TERESINSKI Grzegorz,TERESINSKI Grzegorz,FIZEL Marius,Poland,Slovakia,484.02,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0023,CID BALCELLS Jana,GANBAATAR Narantsetseg,CID BALCELLS Jana,Mongolia,Spain,22.44,Tomoe-nage,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0023,KIM Jisu,SZYMANSKA Angelika,KIM Jisu,Poland,Republic of Korea,449.79,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0023,VARDANIAN Narek,DUISENKHAN Yersultan,VARDANIAN Narek,Kazakhstan,Sweden,247.00,Tate-shiho-gatame,Waza-ari,25
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0023,VARDANIAN Narek,DUISENKHAN Yersultan,VARDANIAN Narek,Kazakhstan,Sweden,247.00,Osaekomi,Waza-ari,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0023,VARDANIAN Narek,DUISENKHAN Yersultan,VARDANIAN Narek,Kazakhstan,Sweden,293.26,Tate-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0023,VARDANIAN Narek,DUISENKHAN Yersultan,VARDANIAN Narek,Kazakhstan,Sweden,293.26,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0023,SULCA Adrian,TSOUTLASVILI Michail,SULCA Adrian,Greece,Romania,170.50,Illegal-Grip-Breaking,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0023,SULCA Adrian,TSOUTLASVILI Michail,SULCA Adrian,Greece,Romania,349.25,Uki-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0023,MATASEJE Benjamin,BRASNJOVIC Darko,MATASEJE Benjamin,Serbia,Slovakia,195.02,Fingers-Interlocked,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0023,MATASEJE Benjamin,BRASNJOVIC Darko,MATASEJE Benjamin,Serbia,Slovakia,305.02,Ippon-seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0023,MATASEJE Benjamin,BRASNJOVIC Darko,MATASEJE Benjamin,Serbia,Slovakia,330.28,Ippon-seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0023,MATASEJE Benjamin,BRASNJOVIC Darko,MATASEJE Benjamin,Serbia,Slovakia,372.53,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0023,OTA Hyoga,OTA Hyoga,SVIRYD Mikita,Japan,Croatia,223.96,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0023,OTA Hyoga,OTA Hyoga,SVIRYD Mikita,Japan,Croatia,291.51,Uchi-mata,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0024,VOROBEVA Marina,VOROBEVA Marina,GHIGLIONE Giulia,Russian Federation,Italy,44.22,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0024,VOROBEVA Marina,VOROBEVA Marina,GHIGLIONE Giulia,Russian Federation,Italy,83.00,Sumi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0024,GALITSKAIA Kseniia,GALITSKAIA Kseniia,ZACHOVA Renata,Russian Federation,Czechia,79.25,Sumi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0024,MISHINER Yuli Alma,MISHINER Yuli Alma,MARATOVA Nazgul,Israel,Kazakhstan,167.52,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0024,MISHINER Yuli Alma,MISHINER Yuli Alma,MARATOVA Nazgul,Israel,Kazakhstan,184.00,Kuzure-kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0024,MISHINER Yuli Alma,MISHINER Yuli Alma,MARATOVA Nazgul,Israel,Kazakhstan,184.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0024,SIMIN Iosif,SARSENBAEV Ernazar,SIMIN Iosif,Uzbekistan,Israel,300.32,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0025,DUDINA Kristina,HUI Xinran,DUDINA Kristina,People's Republic of China,Russian Federation,340.35,Yoko-gake,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0025,OBERAN Iva,OBERAN Iva,CAPANNI DIAS Thauany David,Croatia,Italy,76.23,Tani-otoshi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0025,OBERAN Iva,OBERAN Iva,CAPANNI DIAS Thauany David,Croatia,Italy,197.67,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0025,OBERAN Iva,OBERAN Iva,CAPANNI DIAS Thauany David,Croatia,Italy,244.42,Cancel Ippon,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0025,OBERAN Iva,OBERAN Iva,CAPANNI DIAS Thauany David,Croatia,Italy,244.42,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0025,OBERAN Iva,OBERAN Iva,CAPANNI DIAS Thauany David,Croatia,Italy,319.50,Escape-With-Head,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0025,STARTSEVA Elis,HERSHKO Raz,STARTSEVA Elis,Israel,Russian Federation,29.46,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0025,STARTSEVA Elis,HERSHKO Raz,STARTSEVA Elis,Israel,Russian Federation,232.70,Ko-uchi-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0025,BAATHE Karl,BAATHE Karl,MAJANOV Baymyrat,Sweden,Turkmenistan,123.50,Ko-soto-gake,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0025,BASHAEV Tamerlan,BASHAEV Tamerlan,HEGYI Stephan,Russian Federation,Austria,138.71,Uki-otoshi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0026,TANIOKA Narumi,FAZLIU Laura,TANIOKA Narumi,Kosovo,Japan,137.72,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0026,TANIOKA Narumi,FAZLIU Laura,TANIOKA Narumi,Kosovo,Japan,599.73,Uki-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0026,AYIMAN Jinesinuer,NIU Xinran,AYIMAN Jinesinuer,People's Republic of China,People's Republic of China,135.26,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0026,AYIMAN Jinesinuer,NIU Xinran,AYIMAN Jinesinuer,People's Republic of China,People's Republic of China,135.26,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0026,SUN Jiaxu,SUN Jiaxu,MURILLO MARTINEZ DE LIZARRONDO Asier,People's Republic of China,Spain,138.20,Fingers-Interlocked,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0026,SUN Jiaxu,SUN Jiaxu,MURILLO MARTINEZ DE LIZARRONDO Asier,People's Republic of China,Spain,270.76,Ko-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0026,SUN Jiaxu,SUN Jiaxu,MURILLO MARTINEZ DE LIZARRONDO Asier,People's Republic of China,Spain,312.77,Hikikomi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0026,CADIGNAN Nathan,CADIGNAN Nathan,ZHANG Minghao,France,People's Republic of China,187.50,Uchi-mata,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0026,CADIGNAN Nathan,CADIGNAN Nathan,ZHANG Minghao,France,People's Republic of China,254.27,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0026,CADIGNAN Nathan,CADIGNAN Nathan,ZHANG Minghao,France,People's Republic of China,287.93,O-uchi-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0026,PONS Bastien,PONS Bastien,BIN ABDUL MAJEED Amir Daniel,France,Malaysia,358.55,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0026,SANGARIEV Adam,HUANG Fuchun,SANGARIEV Adam,People's Republic of China,Russian Federation,311.74,Tani-otoshi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0026,PUUMALAINEN Martti,GAMZATKHANOV Dzhamal,PUUMALAINEN Martti,Azerbaijan,Finland,32.01,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0026,PUUMALAINEN Martti,GAMZATKHANOV Dzhamal,PUUMALAINEN Martti,Azerbaijan,Finland,32.01,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0026,PUUMALAINEN Martti,GAMZATKHANOV Dzhamal,PUUMALAINEN Martti,Azerbaijan,Finland,195.49,Seoi-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0026,PUUMALAINEN Martti,GAMZATKHANOV Dzhamal,PUUMALAINEN Martti,Azerbaijan,Finland,319.50,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0026,PUUMALAINEN Martti,GAMZATKHANOV Dzhamal,PUUMALAINEN Martti,Azerbaijan,Finland,319.50,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0027,ZHUANG Wenna,ZHUANG Wenna,AZAK Merve,People's Republic of China,Türkiye,80.27,Ko-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0027,ZHUANG Wenna,ZHUANG Wenna,AZAK Merve,People's Republic of China,Türkiye,117.26,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0027,ZHUANG Wenna,ZHUANG Wenna,AZAK Merve,People's Republic of China,Türkiye,117.26,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0027,ZHUANG Wenna,ZHUANG Wenna,AZAK Merve,People's Republic of China,Türkiye,242.03,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0027,MAKRETSKAYA Yana,MAKRETSKAYA Yana,STOLZE Friederike,Belarus,Germany,192.72,Kata-Guruma,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0027,BADUROVA Kamila,BADUROVA Kamila,LIU Lu,Russian Federation,People's Republic of China,123.75,De-ashi-harai,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0027,BADUROVA Kamila,BADUROVA Kamila,LIU Lu,Russian Federation,People's Republic of China,182.49,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0027,BADUROVA Kamila,BADUROVA Kamila,LIU Lu,Russian Federation,People's Republic of China,212.96,Ko-soto-gake,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0027,FONTAINE Lea,FONTAINE Lea,SONE Akira,France,Japan,62.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0027,FONTAINE Lea,FONTAINE Lea,SONE Akira,France,Japan,62.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0027,ABDELGHANY Abdelrahman,ABDELGHANY Abdelrahman,PALTAYEV Ylham,Egypt,Turkmenistan,181.94,Uchi-mata,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0027,MOORHEAD Lachlan,FRIDMAN ZILBERSTEIN Reem,MOORHEAD Lachlan,Israel,Great Britain,147.79,Kata-Guruma,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0027,MOORHEAD Lachlan,FRIDMAN ZILBERSTEIN Reem,MOORHEAD Lachlan,Israel,Great Britain,176.00,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0027,MOORHEAD Lachlan,FRIDMAN ZILBERSTEIN Reem,MOORHEAD Lachlan,Israel,Great Britain,176.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0027,FERREIRA Giovani,BIFOV Idar,FERREIRA Giovani,Russian Federation,Brazil,112.75,Harai-goshi,Ippon,30
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0027,KRPALEK Lukas,KRPALEK Lukas,TERESINSKI Grzegorz,Czechia,Poland,21.24,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0027,KRPALEK Lukas,KRPALEK Lukas,TERESINSKI Grzegorz,Czechia,Poland,95.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0027,KRPALEK Lukas,KRPALEK Lukas,TERESINSKI Grzegorz,Czechia,Poland,95.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0028,VOROBEVA Marina,CID BALCELLS Jana,VOROBEVA Marina,Spain,Russian Federation,137.03,Kuzure-kami-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0028,VOROBEVA Marina,CID BALCELLS Jana,VOROBEVA Marina,Spain,Russian Federation,137.03,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0028,KIM Jisu,KIM Jisu,GALITSKAIA Kseniia,Republic of Korea,Russian Federation,75.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0028,KIM Jisu,KIM Jisu,GALITSKAIA Kseniia,Republic of Korea,Russian Federation,75.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0028,VUKOVIC Helena,VUKOVIC Helena,MISHINER Yuli Alma,Croatia,Israel,47.96,Uchi-mata-sukashi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0028,VUKOVIC Helena,VUKOVIC Helena,MISHINER Yuli Alma,Croatia,Israel,236.01,Cancel Waza-ari,Ippon,123
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0028,VUKOVIC Helena,VUKOVIC Helena,MISHINER Yuli Alma,Croatia,Israel,236.01,Uchi-mata-sukashi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0028,SIMIN Iosif,MATASEJE Benjamin,SIMIN Iosif,Slovakia,Israel,113.82,Hikikomi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0028,SIMIN Iosif,MATASEJE Benjamin,SIMIN Iosif,Slovakia,Israel,315.83,Sankaku-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0028,OTA Hyoga,OTA Hyoga,BATCHAEV Denis,Japan,Russian Federation,404.01,Okuri-eri-jime,Ippon,27
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0029,HUI Xinran,HUI Xinran,XIE Hongyan,People's Republic of China,People's Republic of China,106.00,Kuzure-kami-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0029,HUI Xinran,HUI Xinran,XIE Hongyan,People's Republic of China,People's Republic of China,106.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0029,FAZLIU Laura,CAPANNI DIAS Thauany David,FAZLIU Laura,Italy,Kosovo,213.00,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0029,FAZLIU Laura,CAPANNI DIAS Thauany David,FAZLIU Laura,Italy,Kosovo,357.72,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0029,FAZLIU Laura,CAPANNI DIAS Thauany David,FAZLIU Laura,Italy,Kosovo,624.25,Ura-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0029,NIU Xinran,HERSHKO Raz,NIU Xinran,Israel,People's Republic of China,52.00,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0029,NIU Xinran,HERSHKO Raz,NIU Xinran,Israel,People's Republic of China,117.25,Fingers-Interlocked,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0029,NIU Xinran,HERSHKO Raz,NIU Xinran,Israel,People's Republic of China,253.21,Ushiro-kesa-gatame,Waza-ari,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0029,NIU Xinran,HERSHKO Raz,NIU Xinran,Israel,People's Republic of China,253.21,Osaekomi,Waza-ari,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0029,NIU Xinran,HERSHKO Raz,NIU Xinran,Israel,People's Republic of China,266.25,Kuzure-kami-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0029,NIU Xinran,HERSHKO Raz,NIU Xinran,Israel,People's Republic of China,266.25,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0029,HUANG Fuchun,MAJANOV Baymyrat,HUANG Fuchun,Turkmenistan,People's Republic of China,35.75,De-ashi-harai,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0029,HUANG Fuchun,MAJANOV Baymyrat,HUANG Fuchun,Turkmenistan,People's Republic of China,116.05,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0029,GAMZATKHANOV Dzhamal,HEGYI Stephan,GAMZATKHANOV Dzhamal,Austria,Azerbaijan,54.28,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0029,GAMZATKHANOV Dzhamal,HEGYI Stephan,GAMZATKHANOV Dzhamal,Austria,Azerbaijan,353.48,O-uchi-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0030,AZAK Merve,AZAK Merve,CID BALCELLS Jana,Türkiye,Spain,128.04,Tomoe-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0030,AZAK Merve,AZAK Merve,CID BALCELLS Jana,Türkiye,Spain,323.75,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0030,LKHAGVASUREN Sosorbaram,MOURYA Yamini,LKHAGVASUREN Sosorbaram,India,Mongolia,103.95,Cancel Waza-ari,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0030,LKHAGVASUREN Sosorbaram,MOURYA Yamini,LKHAGVASUREN Sosorbaram,India,Mongolia,423.28,Yoko-shiho-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0030,LKHAGVASUREN Sosorbaram,MOURYA Yamini,LKHAGVASUREN Sosorbaram,India,Mongolia,423.28,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0030,STOLZE Friederike,STOLZE Friederike,GALITSKAIA Kseniia,Germany,Russian Federation,134.24,Uki-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0030,STOLZE Friederike,STOLZE Friederike,GALITSKAIA Kseniia,Germany,Russian Federation,143.20,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0030,STOLZE Friederike,STOLZE Friederike,GALITSKAIA Kseniia,Germany,Russian Federation,143.20,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0030,NILSSON Ingrid,HAWKES Rachael,NILSSON Ingrid,Great Britain,Sweden,245.25,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0030,NILSSON Ingrid,HAWKES Rachael,NILSSON Ingrid,Great Britain,Sweden,269.00,Kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0030,NILSSON Ingrid,HAWKES Rachael,NILSSON Ingrid,Great Britain,Sweden,269.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0030,MISHINER Yuli Alma,SONE Akira,MISHINER Yuli Alma,Japan,Israel,9.02,Fusen-Gachi,Ippon,121
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0030,DE OLIVEIRA Guilherme,DE OLIVEIRA Guilherme,NO Sok Bom,Brazil,Democratic People's Republic of Korea,270.27,Tate-shiho-gatame,Waza-ari,25
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0030,DE OLIVEIRA Guilherme,DE OLIVEIRA Guilherme,NO Sok Bom,Brazil,Democratic People's Republic of Korea,270.27,Osaekomi,Waza-ari,124
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0030,ALMAT Adilet,ALMAT Adilet,ZHUMANAZAROV Ratbek,Kazakhstan,Kyrgyzstan,93.28,Sode-tsurikomi-goshi,Yuko,30
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0030,ALMAT Adilet,ALMAT Adilet,ZHUMANAZAROV Ratbek,Kazakhstan,Kyrgyzstan,152.54,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0030,ALMAT Adilet,ALMAT Adilet,ZHUMANAZAROV Ratbek,Kazakhstan,Kyrgyzstan,382.48,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0030,ALMAT Adilet,ALMAT Adilet,ZHUMANAZAROV Ratbek,Kazakhstan,Kyrgyzstan,449.51,Tomoe-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0030,BIFOV Idar,BIFOV Idar,MATASEJE Benjamin,Russian Federation,Slovakia,76.67,Cancel Waza-ari,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0030,BIFOV Idar,BIFOV Idar,MATASEJE Benjamin,Russian Federation,Slovakia,76.67,O-uchi-gari,No score,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0030,BIFOV Idar,BIFOV Idar,MATASEJE Benjamin,Russian Federation,Slovakia,210.98,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0030,BATCHAEV Denis,TERESINSKI Grzegorz,BATCHAEV Denis,Poland,Russian Federation,12.79,Kata-Guruma,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0030,BATCHAEV Denis,TERESINSKI Grzegorz,BATCHAEV Denis,Poland,Russian Federation,106.81,Ko-soto-gake,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0030,BATCHAEV Denis,TERESINSKI Grzegorz,BATCHAEV Denis,Poland,Russian Federation,181.83,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0030,BATCHAEV Denis,TERESINSKI Grzegorz,BATCHAEV Denis,Poland,Russian Federation,285.59,Illegal-Joint-Lock,Hansoku-make,119
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0031,BEDER Tugce,DUDINA Kristina,BEDER Tugce,Russian Federation,Türkiye,416.02,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0031,BEDER Tugce,DUDINA Kristina,BEDER Tugce,Russian Federation,Türkiye,443.30,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0031,BEDER Tugce,DUDINA Kristina,BEDER Tugce,Russian Federation,Türkiye,443.30,Tani-otoshi,No score,35
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0031,BEDER Tugce,DUDINA Kristina,BEDER Tugce,Russian Federation,Türkiye,541.10,Ura-nage,Ippon,31
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0031,TANIOKA Narumi,OBERAN Iva,TANIOKA Narumi,Croatia,Japan,88.27,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0031,TANIOKA Narumi,OBERAN Iva,TANIOKA Narumi,Croatia,Japan,88.27,Uchi-mata,No score,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0031,TANIOKA Narumi,OBERAN Iva,TANIOKA Narumi,Croatia,Japan,331.00,Tate-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0031,TANIOKA Narumi,OBERAN Iva,TANIOKA Narumi,Croatia,Japan,331.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0031,GULBANI Nino,MO Sumin,GULBANI Nino,Republic of Korea,Georgia,117.45,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0031,GULBANI Nino,MO Sumin,GULBANI Nino,Republic of Korea,Georgia,204.46,O-uchi-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0031,STARTSEVA Elis,STARTSEVA Elis,AYIMAN Jinesinuer,Russian Federation,People's Republic of China,116.27,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0031,STARTSEVA Elis,STARTSEVA Elis,AYIMAN Jinesinuer,Russian Federation,People's Republic of China,245.74,Ko-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0031,STARTSEVA Elis,STARTSEVA Elis,AYIMAN Jinesinuer,Russian Federation,People's Republic of China,266.20,Tate-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0031,STARTSEVA Elis,STARTSEVA Elis,AYIMAN Jinesinuer,Russian Federation,People's Republic of China,266.20,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0031,KATZ Joshua,KATZ Joshua,IGNASIAK Ksawery,Australia,Poland,330.00,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0031,CENA Dardan,CENA Dardan,SHIN Woojin,Kosovo,Republic of Korea,154.00,O-uchi-gaeshi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0031,SUKHOPAROV Egor,SUKHOPAROV Egor,SHI Zhenyu,Russian Federation,People's Republic of China,85.03,Two-hand-grip-avoidance,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0031,SUKHOPAROV Egor,SUKHOPAROV Egor,SHI Zhenyu,Russian Federation,People's Republic of China,116.93,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0031,SUKHOPAROV Egor,SUKHOPAROV Egor,SHI Zhenyu,Russian Federation,People's Republic of China,275.00,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0031,SUKHOPAROV Egor,SUKHOPAROV Egor,SHI Zhenyu,Russian Federation,People's Republic of China,332.03,Ko-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0031,SANGARIEV Adam,BAATHE Karl,SANGARIEV Adam,Sweden,Russian Federation,67.99,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0031,SANGARIEV Adam,BAATHE Karl,SANGARIEV Adam,Sweden,Russian Federation,191.29,Kata-Guruma,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0031,BASHAEV Tamerlan,BASHAEV Tamerlan,PUUMALAINEN Martti,Russian Federation,Finland,43.47,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0032,ZHUANG Wenna,ZHUANG Wenna,VOROBEVA Marina,People's Republic of China,Russian Federation,127.49,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0032,ZHUANG Wenna,ZHUANG Wenna,VOROBEVA Marina,People's Republic of China,Russian Federation,171.70,Sumi-otoshi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0032,KIM Jisu,MAKRETSKAYA Yana,KIM Jisu,Belarus,Republic of Korea,211.46,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0032,FONTAINE Lea,FONTAINE Lea,VUKOVIC Helena,France,Croatia,162.58,Cancel Ippon,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0032,FONTAINE Lea,FONTAINE Lea,VUKOVIC Helena,France,Croatia,162.58,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0032,FONTAINE Lea,FONTAINE Lea,VUKOVIC Helena,France,Croatia,173.05,Kuzure-kesa-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0032,FONTAINE Lea,FONTAINE Lea,VUKOVIC Helena,France,Croatia,173.05,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0032,FERREIRA Giovani,FERREIRA Giovani,SIMIN Iosif,Brazil,Israel,65.01,Cancel Waza-ari,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0032,FERREIRA Giovani,FERREIRA Giovani,SIMIN Iosif,Brazil,Israel,65.01,Sumi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0032,FERREIRA Giovani,FERREIRA Giovani,SIMIN Iosif,Brazil,Israel,171.17,Tai-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0032,FERREIRA Giovani,FERREIRA Giovani,SIMIN Iosif,Brazil,Israel,203.50,Ko-soto-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0032,OTA Hyoga,KRPALEK Lukas,OTA Hyoga,Czechia,Japan,253.31,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0033,HUI Xinran,HUI Xinran,VOROBEVA Marina,People's Republic of China,Russian Federation,147.04,Yoko-shiho-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0033,HUI Xinran,HUI Xinran,VOROBEVA Marina,People's Republic of China,Russian Federation,147.04,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0033,BALLHAUS Mascha,BALLHAUS Mascha,KASAPI Fatjona,Germany,Kosovo,43.01,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0033,BALLHAUS Mascha,BALLHAUS Mascha,KASAPI Fatjona,Germany,Kosovo,103.19,Fingers-Interlocked,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0033,BALLHAUS Mascha,BALLHAUS Mascha,KASAPI Fatjona,Germany,Kosovo,161.28,Sumi-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0033,BALLHAUS Mascha,BALLHAUS Mascha,KASAPI Fatjona,Germany,Kosovo,194.26,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0033,BALLHAUS Mascha,BALLHAUS Mascha,KASAPI Fatjona,Germany,Kosovo,194.26,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0033,NELSON LEVY Timna,NELSON LEVY Timna,SOUZA Sarah,Israel,Brazil,121.44,Tani-otoshi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0033,NELSON LEVY Timna,NELSON LEVY Timna,SOUZA Sarah,Israel,Brazil,216.04,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0033,FAZLIU Laura,FAZLIU Laura,MAKRETSKAYA Yana,Kosovo,Belarus,113.19,Sasae-tsurikomi-ashi,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0033,FAZLIU Laura,FAZLIU Laura,MAKRETSKAYA Yana,Kosovo,Belarus,235.19,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0033,COUGHLAN Aoife,COUGHLAN Aoife,PETERSEN POLLARD Kelly,Australia,Great Britain,691.50,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0033,OLEK Anna Monta,OLEK Anna Monta,KANTSAVAYA Darya,Germany,Belarus,152.22,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0033,OLEK Anna Monta,OLEK Anna Monta,KANTSAVAYA Darya,Germany,Belarus,197.01,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0033,OLEK Anna Monta,OLEK Anna Monta,KANTSAVAYA Darya,Germany,Belarus,321.18,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0033,OLEK Anna Monta,OLEK Anna Monta,KANTSAVAYA Darya,Germany,Belarus,329.24,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0033,VUKOVIC Helena,NIU Xinran,VUKOVIC Helena,People's Republic of China,Croatia,695.19,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0033,ABE Hifumi,ABE Hifumi,DE LUCA Alessio,Japan,Italy,186.45,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0033,ABE Hifumi,ABE Hifumi,DE LUCA Alessio,Japan,Italy,249.48,Tai-otoshi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0033,MAKHMADBEKOV Makhmadbek,MAKHMADBEKOV Makhmadbek,BASILE Fabio,United Arab Emirates,Italy,186.71,O-soto-makikomi,Waza-ari,35
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0033,BONFERRONI Aurelien,GAUTHIER DRAPEAU Francois,BONFERRONI Aurelien,Canada,Switzerland,316.47,Sode-tsurikomi-goshi,Waza-ari,30
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0033,FATIYEV Murad,FATIYEV Murad,LI Shuo,Azerbaijan,People's Republic of China,282.18,Defensive-Posture,HSK (3rd shido),112
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0033,HUANG Fuchun,HUANG Fuchun,SIMIN Iosif,People's Republic of China,Israel,119.45,Illegal-Grip-Breaking,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0033,HUANG Fuchun,HUANG Fuchun,SIMIN Iosif,People's Republic of China,Israel,221.53,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0033,HUANG Fuchun,HUANG Fuchun,SIMIN Iosif,People's Republic of China,Israel,235.00,Kuzure-kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0033,HUANG Fuchun,HUANG Fuchun,SIMIN Iosif,People's Republic of China,Israel,235.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0033,KRPALEK Lukas,GAMZATKHANOV Dzhamal,KRPALEK Lukas,Azerbaijan,Czechia,194.10,Tate-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0033,KRPALEK Lukas,GAMZATKHANOV Dzhamal,KRPALEK Lukas,Azerbaijan,Czechia,194.10,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0034,DUDINA Kristina,AZAK Merve,DUDINA Kristina,Türkiye,Russian Federation,31.77,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0034,DUDINA Kristina,AZAK Merve,DUDINA Kristina,Türkiye,Russian Federation,47.72,Sode-guruma-jime,Ippon,27
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0034,PERNA Kenya,PERNA Kenya,YU Jiayu,Italy,People's Republic of China,62.21,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0034,PERNA Kenya,PERNA Kenya,YU Jiayu,Italy,People's Republic of China,78.27,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0034,PERNA Kenya,PERNA Kenya,YU Jiayu,Italy,People's Republic of China,78.27,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0034,PERNA Kenya,PERNA Kenya,YU Jiayu,Italy,People's Republic of China,102.26,Kuzure-kami-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0034,PERNA Kenya,PERNA Kenya,YU Jiayu,Italy,People's Republic of China,102.26,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0034,PERNA Kenya,PERNA Kenya,YU Jiayu,Italy,People's Republic of China,126.01,Kuzure-kami-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0034,PERNA Kenya,PERNA Kenya,YU Jiayu,Italy,People's Republic of China,126.01,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0034,LEOPOLD Maya,SIENNICKA Karolina,LEOPOLD Maya,Poland,Uruguay,211.97,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0034,LEOPOLD Maya,SIENNICKA Karolina,LEOPOLD Maya,Poland,Uruguay,229.02,Ko-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0034,LEOPOLD Maya,SIENNICKA Karolina,LEOPOLD Maya,Poland,Uruguay,257.26,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0034,STOLZE Friederike,STOLZE Friederike,OBERAN Iva,Germany,Croatia,633.33,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0034,YULDOSHOVA Shirinjon,YULDOSHOVA Shirinjon,URAN-ULZII Anujin,Uzbekistan,Mongolia,314.51,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0034,NGELEBEYA Liz,KODIROVA Barchinoy,NGELEBEYA Liz,Uzbekistan,France,56.91,De-ashi-harai,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0034,NGELEBEYA Liz,KODIROVA Barchinoy,NGELEBEYA Liz,Uzbekistan,France,167.46,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0034,NGELEBEYA Liz,KODIROVA Barchinoy,NGELEBEYA Liz,Uzbekistan,France,298.25,Tate-shiho-gatame,Waza-ari,25
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0034,NGELEBEYA Liz,KODIROVA Barchinoy,NGELEBEYA Liz,Uzbekistan,France,298.25,Osaekomi,Waza-ari,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0034,AYIMAN Jinesinuer,MISHINER Yuli Alma,AYIMAN Jinesinuer,Israel,People's Republic of China,502.79,Outside-Contest-Area,HSK (3rd shido),112
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0034,SMETOV Yeldos,SUN Jiahao,SMETOV Yeldos,People's Republic of China,Kazakhstan,62.04,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0034,SMETOV Yeldos,SUN Jiahao,SMETOV Yeldos,People's Republic of China,Kazakhstan,98.01,Squeeze head with legs,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0034,SMETOV Yeldos,SUN Jiahao,SMETOV Yeldos,People's Republic of China,Kazakhstan,179.77,Seoi-nage,Waza-ari-awasete-ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0034,CHRISTODOULIDES Petros,CHRISTODOULIDES Petros,BABATOV Islam,Cyprus,Russian Federation,220.01,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0034,CHRISTODOULIDES Petros,CHRISTODOULIDES Petros,BABATOV Islam,Cyprus,Russian Federation,220.01,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0034,CHRISTODOULIDES Petros,CHRISTODOULIDES Petros,BABATOV Islam,Cyprus,Russian Federation,343.51,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0034,CHRISTODOULIDES Petros,CHRISTODOULIDES Petros,BABATOV Islam,Cyprus,Russian Federation,385.17,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0034,CHRISTODOULIDES Petros,CHRISTODOULIDES Petros,BABATOV Islam,Cyprus,Russian Federation,385.17,Uchi-mata,No score,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0034,CHRISTODOULIDES Petros,CHRISTODOULIDES Petros,BABATOV Islam,Cyprus,Russian Federation,477.77,Soto-makikomi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0034,DZHAMALOV Nurmagomed,NAIRNE Ethan,DZHAMALOV Nurmagomed,Great Britain,Russian Federation,309.50,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0034,HEYDAROV Hidayat,MENDIOLA IZQUIETA Jose Maria,HEYDAROV Hidayat,Spain,Azerbaijan,428.99,Harai-makikomi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0034,KARAPETYAN David,KARAPETYAN David,FALCONE Tiziano,Russian Federation,Italy,293.59,Tai-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0034,KARAPETYAN David,KARAPETYAN David,FALCONE Tiziano,Russian Federation,Italy,347.60,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0034,BIFOV Idar,BIFOV Idar,BAATHE Karl,Russian Federation,Sweden,86.75,Hikikomi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0034,PUUMALAINEN Martti,BATCHAEV Denis,PUUMALAINEN Martti,Russian Federation,Finland,223.71,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0034,PUUMALAINEN Martti,BATCHAEV Denis,PUUMALAINEN Martti,Russian Federation,Finland,295.75,Yoko-shiho-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0034,PUUMALAINEN Martti,BATCHAEV Denis,PUUMALAINEN Martti,Russian Federation,Finland,295.75,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0035,ZHUANG Wenna,BEDER Tugce,ZHUANG Wenna,Türkiye,People's Republic of China,106.78,Tomoe-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0035,ZHUANG Wenna,BEDER Tugce,ZHUANG Wenna,Türkiye,People's Republic of China,220.80,O-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0035,ZHUANG Wenna,BEDER Tugce,ZHUANG Wenna,Türkiye,People's Republic of China,299.06,Cancel Yuko,Waza-ari-awasete-ippon,123
+Qingdao Grand Prix 2026,2026-06-26,-48,gp_chn2026_0002_f_0048_0035,ZHUANG Wenna,BEDER Tugce,ZHUANG Wenna,Türkiye,People's Republic of China,299.06,O-uchi-gari,Waza-ari-awasete-ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0035,GERASIMOVA Iuna,BEATON Evelyn,GERASIMOVA Iuna,Canada,Russian Federation,213.84,Cancel Waza-ari,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0035,GERASIMOVA Iuna,BEATON Evelyn,GERASIMOVA Iuna,Canada,Russian Federation,213.84,Uchi-mata,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0035,GERASIMOVA Iuna,BEATON Evelyn,GERASIMOVA Iuna,Canada,Russian Federation,263.60,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0035,GERASIMOVA Iuna,BEATON Evelyn,GERASIMOVA Iuna,Canada,Russian Federation,448.03,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0035,GERASIMOVA Iuna,BEATON Evelyn,GERASIMOVA Iuna,Canada,Russian Federation,496.59,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0035,ZUEVA Irina,ZUEVA Irina,BUDAK Aysenur,Russian Federation,Türkiye,42.25,Cancel Waza-ari,Ippon,123
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0035,ZUEVA Irina,ZUEVA Irina,BUDAK Aysenur,Russian Federation,Türkiye,42.25,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0035,TANIOKA Narumi,TANIOKA Narumi,KIM Jisu,Japan,Republic of Korea,244.09,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0035,TANIOKA Narumi,TANIOKA Narumi,KIM Jisu,Japan,Republic of Korea,312.29,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0035,TANIOKA Narumi,TANIOKA Narumi,KIM Jisu,Japan,Republic of Korea,540.00,Yoko-shiho-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,-63,gp_chn2026_0002_f_0063_0035,TANIOKA Narumi,TANIOKA Narumi,KIM Jisu,Japan,Republic of Korea,540.00,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0035,KRAPU Emma,WU Hongtao,KRAPU Emma,People's Republic of China,Finland,116.72,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0035,KRAPU Emma,WU Hongtao,KRAPU Emma,People's Republic of China,Finland,255.24,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0035,KRAPU Emma,WU Hongtao,KRAPU Emma,People's Republic of China,Finland,255.24,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0035,STARTSEVA Elis,STARTSEVA Elis,FONTAINE Lea,Russian Federation,France,135.01,Tate-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,+78,gp_chn2026_0002_f_0p78_0035,STARTSEVA Elis,STARTSEVA Elis,FONTAINE Lea,Russian Federation,France,135.01,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0035,JEAN Enzo,JEAN Enzo,NAERT Olivier,France,Belgium,49.02,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0035,JEAN Enzo,JEAN Enzo,NAERT Olivier,France,Belgium,72.68,Illegal-Grip-Breaking,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0035,JEAN Enzo,JEAN Enzo,NAERT Olivier,France,Belgium,180.26,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0035,YONDONPERENLEI Baskhuu,YONDONPERENLEI Baskhuu,WANG Jiangfeng,Mongolia,People's Republic of China,123.31,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0035,YONDONPERENLEI Baskhuu,YONDONPERENLEI Baskhuu,WANG Jiangfeng,Mongolia,People's Republic of China,294.03,Kuzure-kami-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0035,YONDONPERENLEI Baskhuu,YONDONPERENLEI Baskhuu,WANG Jiangfeng,Mongolia,People's Republic of China,294.03,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0035,LEMIRE Justin,LEMIRE Justin,ELBAZ Yehonatan,Canada,Israel,148.02,Tsuri-goshi,Ippon,30
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0035,HERKOVIC Nace,FUJIWARA Sotaro,HERKOVIC Nace,Japan,Slovenia,446.71,Sumi-gaeshi,Ippon,31
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0035,MURTOZOEV Nurbek,MURTOZOEV Nurbek,SIVAN Roy,Uzbekistan,Israel,338.03,O-uchi-gaeshi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0035,SANGARIEV Adam,SANGARIEV Adam,FERREIRA Giovani,Russian Federation,Brazil,259.01,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0035,SANGARIEV Adam,SANGARIEV Adam,FERREIRA Giovani,Russian Federation,Brazil,285.30,Cancel Waza-ari,Ippon,123
+Qingdao Grand Prix 2026,2026-06-26,-100,gp_chn2026_0001_m_0100_0035,SANGARIEV Adam,SANGARIEV Adam,FERREIRA Giovani,Russian Federation,Brazil,285.30,Sumi-otoshi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,+100,gp_chn2026_0001_m_p100_0035,BASHAEV Tamerlan,BASHAEV Tamerlan,OTA Hyoga,Russian Federation,Japan,205.77,Seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0036,KUSSAKBAYEVA Bakyt,ORAZNYYAZOVA Medine,KUSSAKBAYEVA Bakyt,Turkmenistan,Kazakhstan,26.26,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0036,KUSSAKBAYEVA Bakyt,ORAZNYYAZOVA Medine,KUSSAKBAYEVA Bakyt,Turkmenistan,Kazakhstan,273.76,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0036,CARDOSO Kaillany,SOBIERAJSKA Katarzyna,CARDOSO Kaillany,Poland,Brazil,176.21,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0036,CARDOSO Kaillany,SOBIERAJSKA Katarzyna,CARDOSO Kaillany,Poland,Brazil,297.21,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0036,ESPOSITO Martina,BOUSBAA DAB Nisrin,ESPOSITO Martina,Spain,Italy,127.48,Escape-With-Head,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0036,KANATBEK UULU Tugol,ALAOUI CHERIFI Ahmed,KANATBEK UULU Tugol,Morocco,Kyrgyzstan,82.75,Uchi-mata,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0036,KANATBEK UULU Tugol,ALAOUI CHERIFI Ahmed,KANATBEK UULU Tugol,Morocco,Kyrgyzstan,343.23,Ippon-seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0036,PONGRACZ Bence,PONGRACZ Bence,MUCIK Hilmi,Hungary,Türkiye,308.09,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0036,SKERLEV Victor,SKERLEV Victor,KUMAR Arun,Bulgaria,India,89.78,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0036,SKERLEV Victor,SKERLEV Victor,KUMAR Arun,Bulgaria,India,214.30,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0036,SKERLEV Victor,SKERLEV Victor,KUMAR Arun,Bulgaria,India,214.30,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0036,SKERLEV Victor,SKERLEV Victor,KUMAR Arun,Bulgaria,India,299.47,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0036,PARLATI Manuel,ZHUBANAZAR Abylaikhan,PARLATI Manuel,Kazakhstan,Italy,25.26,Sumi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0036,PARLATI Manuel,ZHUBANAZAR Abylaikhan,PARLATI Manuel,Kazakhstan,Italy,119.75,Ko-soto-gari,Waza-ari-awasete-ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0036,NERPEL Gergely,KHALIL Ammar,NERPEL Gergely,Egypt,Hungary,59.00,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0036,NERPEL Gergely,KHALIL Ammar,NERPEL Gergely,Egypt,Hungary,221.00,Ko-soto-gake,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0036,NERPEL Gergely,KHALIL Ammar,NERPEL Gergely,Egypt,Hungary,281.97,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0036,NERPEL Gergely,KHALIL Ammar,NERPEL Gergely,Egypt,Hungary,327.95,Harai-goshi-gaeshi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0036,NERPEL Gergely,KHALIL Ammar,NERPEL Gergely,Egypt,Hungary,369.20,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0037,LEIVA SANCHEZ Ayumi,LEIVA SANCHEZ Ayumi,BAYANMUNKH Uranzaya,Spain,Mongolia,200.97,O-soto-gaeshi,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0037,FAWAZ Martha,FAWAZ Martha,KIM Hyon A,France,Democratic People's Republic of Korea,77.47,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0037,FAWAZ Martha,FAWAZ Martha,KIM Hyon A,France,Democratic People's Republic of Korea,97.93,Tai-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0037,POHL Dena,FOHOUO April Lynn,POHL Dena,Switzerland,Germany,111.05,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0037,POHL Dena,FOHOUO April Lynn,POHL Dena,Switzerland,Germany,333.25,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0037,POHL Dena,FOHOUO April Lynn,POHL Dena,Switzerland,Germany,458.32,Uchi-mata-gaeshi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0037,FREITAS Beatriz,FREITAS Beatriz,DENGG Elena,Brazil,Austria,139.04,Koshi-guruma,Waza-ari,30
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0037,FREITAS Beatriz,FREITAS Beatriz,DENGG Elena,Brazil,Austria,152.04,Kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0037,FREITAS Beatriz,FREITAS Beatriz,DENGG Elena,Brazil,Austria,152.04,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0037,TUVSHINTUR Tumenjargal,ASHPIZ Izhak,TUVSHINTUR Tumenjargal,Israel,Mongolia,33.05,Ko-soto-gari,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0037,WONG Ka Ki,SAHA Luukas,WONG Ka Ki,Finland,"Hong Kong, China",29.26,Fusen-Gachi,Ippon,121
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0037,IHANAMAKI Eetu,IHANAMAKI Eetu,GOCHILAIDZE Dimitri,Finland,Georgia,50.49,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0037,IHANAMAKI Eetu,IHANAMAKI Eetu,GOCHILAIDZE Dimitri,Finland,Georgia,75.52,Yoko-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0037,IHANAMAKI Eetu,IHANAMAKI Eetu,GOCHILAIDZE Dimitri,Finland,Georgia,154.00,De-ashi-harai,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0037,IHANAMAKI Eetu,IHANAMAKI Eetu,GOCHILAIDZE Dimitri,Finland,Georgia,379.72,Yoko-gake,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0037,SCHIMIDT Guilherme,SCHIMIDT Guilherme,TRIPPEL Eduard,Brazil,Germany,30.55,Sode-tsurikomi-goshi,Yuko,30
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0037,SCHIMIDT Guilherme,SCHIMIDT Guilherme,TRIPPEL Eduard,Brazil,Germany,310.06,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0037,SCHIMIDT Guilherme,SCHIMIDT Guilherme,TRIPPEL Eduard,Brazil,Germany,570.98,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0038,KEEN Tatum,KEEN Tatum,XU Aoyu,Great Britain,People's Republic of China,183.26,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0038,GARCIA MARTIN Marta,GARCIA MARTIN Marta,CARNA Giulia,Spain,Italy,7.48,Fusen-Gachi,Ippon,121
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0038,LISHCHENKO Tamara,LISHCHENKO Tamara,TCHANTURIA Mariam,Russian Federation,Georgia,149.71,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0038,LISHCHENKO Tamara,LISHCHENKO Tamara,TCHANTURIA Mariam,Russian Federation,Georgia,257.29,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0038,KIM Juyun,AILTGUIBAATAR Dulamsuren,KIM Juyun,Mongolia,Republic of Korea,83.01,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0038,KUCHKAROV Samariddin,KUCHKAROV Samariddin,JIN Feng,Uzbekistan,People's Republic of China,400.73,Hikikomi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0038,RAY Kelvin,RAY Kelvin,ERDENETSOGT Bilegt,France,United States of America,81.95,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0038,ABDURAKHMANOV Bakhitzhan,ABDURAKHMANOV Bakhitzhan,KARIMOV Chusniddin,Kazakhstan,Czechia,343.00,Yoko-shiho-gatame,No score,25
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0038,ABDURAKHMANOV Bakhitzhan,ABDURAKHMANOV Bakhitzhan,KARIMOV Chusniddin,Kazakhstan,Czechia,343.00,Osaekomi,No score,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0038,ABDURAKHMANOV Bakhitzhan,ABDURAKHMANOV Bakhitzhan,KARIMOV Chusniddin,Kazakhstan,Czechia,630.20,Uki-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0038,SHABIKHANOV Saikhan,SHABIKHANOV Saikhan,PANG Zheyuan,Russian Federation,People's Republic of China,40.04,Tsuri-goshi,Yuko,30
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0038,SHABIKHANOV Saikhan,SHABIKHANOV Saikhan,PANG Zheyuan,Russian Federation,People's Republic of China,52.28,Tate-shiho-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0038,SHABIKHANOV Saikhan,SHABIKHANOV Saikhan,PANG Zheyuan,Russian Federation,People's Republic of China,52.28,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0038,SHABIKHANOV Saikhan,SHABIKHANOV Saikhan,PANG Zheyuan,Russian Federation,People's Republic of China,56.06,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0038,ARAPOV Aidar,ARAPOV Aidar,SCHARFETTER Thomas,Kazakhstan,Austria,78.32,Sasae-tsurikomi-ashi,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0039,BALLHAUS Seija,BALLHAUS Seija,MATIKAINEN Pihla,Germany,Finland,224.75,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0039,BALLHAUS Seija,BALLHAUS Seija,MATIKAINEN Pihla,Germany,Finland,224.75,O-uchi-gari,No score,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0039,BALLHAUS Seija,BALLHAUS Seija,MATIKAINEN Pihla,Germany,Finland,356.75,Outside-Contest-Area,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0039,BALLHAUS Seija,BALLHAUS Seija,MATIKAINEN Pihla,Germany,Finland,412.72,Sumi-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0039,ERIKSSON Ida,ERIKSSON Ida,MUN Song Hui,Sweden,Democratic People's Republic of Korea,299.20,Obi-tori-gaeshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0039,REID Emma,REID Emma,SONG Yanzi,Great Britain,People's Republic of China,201.06,Sasae-tsurikomi-ashi,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0039,REID Emma,REID Emma,SONG Yanzi,Great Britain,People's Republic of China,225.81,Soto-makikomi,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0039,AUGUSTO Michel,AUGUSTO Michel,BARROSO LOPEZ Luis,Brazil,Spain,60.23,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0039,NUTFULLOEV Abdurakhim,NUTFULLOEV Abdurakhim,AIBEK UULU Kubanychbek,Uzbekistan,Kyrgyzstan,561.76,Ura-nage,Ippon,31
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0039,CILOGLU Bilal,ODGEREL Uranbayar,CILOGLU Bilal,Mongolia,Türkiye,236.28,Hikikomi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0039,FASCHING Bernd,FASCHING Bernd,OYUNCHIMEG Shinebayar,Austria,Mongolia,166.21,Ko-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0039,FASCHING Bernd,FASCHING Bernd,OYUNCHIMEG Shinebayar,Austria,Mongolia,195.25,Tai-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0039,FASCHING Bernd,FASCHING Bernd,OYUNCHIMEG Shinebayar,Austria,Mongolia,239.25,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0039,FASCHING Bernd,FASCHING Bernd,OYUNCHIMEG Shinebayar,Austria,Mongolia,344.52,Cancel Waza-ari,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0039,FASCHING Bernd,FASCHING Bernd,OYUNCHIMEG Shinebayar,Austria,Mongolia,401.02,Cancel Ippon,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0039,FASCHING Bernd,FASCHING Bernd,OYUNCHIMEG Shinebayar,Austria,Mongolia,401.02,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0039,FASCHING Bernd,FASCHING Bernd,OYUNCHIMEG Shinebayar,Austria,Mongolia,439.67,Cancel Waza-ari,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0039,FASCHING Bernd,FASCHING Bernd,OYUNCHIMEG Shinebayar,Austria,Mongolia,441.23,Hikikomi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0039,JAYNE John,FRONCKOWIAK Marcelo,JAYNE John,Brazil,United States of America,111.48,Cancel Yuko,Waza-ari,123
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0039,JAYNE John,FRONCKOWIAK Marcelo,JAYNE John,Brazil,United States of America,111.48,Seoi-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0040,MAMMADALIYEVA Gultaj,MAMMADALIYEVA Gultaj,KLIMCZAK Kinga,Azerbaijan,Poland,170.30,Ashi-guruma,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0040,OYUNGEREL Oyunchimeg,OYUNGEREL Oyunchimeg,JUNG Nari,Mongolia,Republic of Korea,86.96,O-uchi-gaeshi,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0040,OYUNGEREL Oyunchimeg,OYUNGEREL Oyunchimeg,JUNG Nari,Mongolia,Republic of Korea,156.97,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0040,OYUNGEREL Oyunchimeg,OYUNGEREL Oyunchimeg,JUNG Nari,Mongolia,Republic of Korea,334.51,Sumi-otoshi,Waza-ari-awasete-ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0040,TAKHELLAMBAM Inunganbi,YANG Jiyoung,TAKHELLAMBAM Inunganbi,Republic of Korea,India,494.00,Ura-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0040,TAKHELLAMBAM Inunganbi,YANG Jiyoung,TAKHELLAMBAM Inunganbi,Republic of Korea,India,494.00,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0040,WROBLEWSKA Eliza,WROBLEWSKA Eliza,KULIC Karla,Poland,Croatia,71.50,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0040,WROBLEWSKA Eliza,WROBLEWSKA Eliza,KULIC Karla,Poland,Croatia,71.50,Ura-nage,No score,31
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0040,WROBLEWSKA Eliza,WROBLEWSKA Eliza,KULIC Karla,Poland,Croatia,140.80,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0040,WROBLEWSKA Eliza,WROBLEWSKA Eliza,KULIC Karla,Poland,Croatia,191.29,Ko-soto-gake,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0040,WROBLEWSKA Eliza,WROBLEWSKA Eliza,KULIC Karla,Poland,Croatia,282.26,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0040,AYRE Charlie,HEYDER Maximilian,AYRE Charlie,Germany,Great Britain,197.23,Ko-soto-gake,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0040,CHENG Lin,CHENG Lin,BOUSHITA Abderrahmane,People's Republic of China,Morocco,176.72,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0040,GABOR Aron,GABOR Aron,BOLDBAATAR Steven,Hungary,United States of America,220.52,Seoi-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0040,GABOR Aron,GABOR Aron,BOLDBAATAR Steven,Hungary,United States of America,226.49,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0040,GABOR Aron,GABOR Aron,BOLDBAATAR Steven,Hungary,United States of America,226.49,Tomoe-nage,No score,31
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0040,GABOR Aron,GABOR Aron,BOLDBAATAR Steven,Hungary,United States of America,302.28,O-uchi-gaeshi,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0040,GURGEN Erman,ELBAKIEV Georgii,GURGEN Erman,United Arab Emirates,Türkiye,128.64,Two-hand-grip-avoidance,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0040,GURGEN Erman,ELBAKIEV Georgii,GURGEN Erman,United Arab Emirates,Türkiye,437.42,Tani-otoshi,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0040,HAN Qi,HALMUMINOV Omuruzak,HAN Qi,Turkmenistan,People's Republic of China,37.51,Uchi-mata-sukashi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0041,BISHRELT Khorloodoi,BISHRELT Khorloodoi,STELLA Gaia,United Arab Emirates,Italy,155.70,Hikikomi-gaeshi,Ippon,31
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0041,NASCIMENTO Shirlen,NASCIMENTO Shirlen,KIM Juhee,Brazil,Republic of Korea,124.30,Okuri-eri-jime,Ippon,27
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0041,CVJETKO Lara,CVJETKO Lara,HU Wenbo,Croatia,People's Republic of China,24.42,Hikikomi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0041,CVJETKO Lara,CVJETKO Lara,HU Wenbo,Croatia,People's Republic of China,120.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0041,CVJETKO Lara,CVJETKO Lara,HU Wenbo,Croatia,People's Republic of China,120.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0041,LOBNIK Metka,LOBNIK Metka,KUCHIMOVA Marjona,Slovenia,Uzbekistan,64.28,Sode-guruma-jime,Ippon,27
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0041,YUSIFOV Ahmad,YUSIFOV Ahmad,KHALMATOV Dilshot,Azerbaijan,Ukraine,92.73,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0041,YUSIFOV Ahmad,YUSIFOV Ahmad,KHALMATOV Dilshot,Azerbaijan,Ukraine,162.95,Kata-Guruma,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0041,PASHAYEV Ruslan,PASHAYEV Ruslan,XUE Ziyang,Azerbaijan,People's Republic of China,106.00,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0041,PASHAYEV Ruslan,PASHAYEV Ruslan,XUE Ziyang,Azerbaijan,People's Republic of China,274.67,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0041,TCKAEV Zelim,TCKAEV Zelim,MAKINEN Oskari,Azerbaijan,Finland,78.21,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0041,TCKAEV Zelim,TCKAEV Zelim,MAKINEN Oskari,Azerbaijan,Finland,137.94,Uchi-mata,Waza-ari-awasete-ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0041,TAJIMA Goki,TAJIMA Goki,KRYLOV Daniil,Japan,Kazakhstan,76.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0041,TAJIMA Goki,TAJIMA Goki,KRYLOV Daniil,Japan,Kazakhstan,76.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0042,CUQ Pauline,IRAOUI Soumiya,CUQ Pauline,Morocco,France,55.48,Seoi-otoshi,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0042,PARDAYEVA Maysa,PARDAYEVA Maysa,LOXHA Flaka,Turkmenistan,Kosovo,158.95,Cancel Waza-ari,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0042,PARDAYEVA Maysa,PARDAYEVA Maysa,LOXHA Flaka,Turkmenistan,Kosovo,158.95,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0042,PARDAYEVA Maysa,PARDAYEVA Maysa,LOXHA Flaka,Turkmenistan,Kosovo,213.95,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0042,PARDAYEVA Maysa,PARDAYEVA Maysa,LOXHA Flaka,Turkmenistan,Kosovo,236.94,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0042,PARDAYEVA Maysa,PARDAYEVA Maysa,LOXHA Flaka,Turkmenistan,Kosovo,281.78,Ippon-seoi-nage,Waza-ari-awasete-ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0042,SCHUSTER Kaja,SCHUSTER Kaja,RUSLANOVA Oguljan,Slovenia,Turkmenistan,26.20,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0042,SCHUSTER Kaja,SCHUSTER Kaja,RUSLANOVA Oguljan,Slovenia,Turkmenistan,259.26,Ippon-seoi-nage,Ippon,33
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0042,JANG Won Hui,JANG Won Hui,CAMILLO Dandara,Democratic People's Republic of Korea,Brazil,264.48,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0042,RENARD Alexis,OROZMAMATOV Adis,RENARD Alexis,Kyrgyzstan,France,132.00,Cancel Waza-ari,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0042,RENARD Alexis,OROZMAMATOV Adis,RENARD Alexis,Kyrgyzstan,France,132.00,Sode-tsurikomi-goshi,Yuko,30
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0042,DOUKKALI Hassan,TOJIEV Elbek,DOUKKALI Hassan,Uzbekistan,Morocco,98.01,Kicking,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0042,DOUKKALI Hassan,TOJIEV Elbek,DOUKKALI Hassan,Uzbekistan,Morocco,207.46,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0042,DOUKKALI Hassan,TOJIEV Elbek,DOUKKALI Hassan,Uzbekistan,Morocco,332.28,Sumi-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0042,YULDOSHEV Murodjon,YULDOSHEV Murodjon,HEBIB Mustafa,Uzbekistan,Bosnia and Herzegovina,62.69,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0042,YULDOSHEV Murodjon,YULDOSHEV Murodjon,HEBIB Mustafa,Uzbekistan,Bosnia and Herzegovina,127.48,Cancel Yuko,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0042,YULDOSHEV Murodjon,YULDOSHEV Murodjon,HEBIB Mustafa,Uzbekistan,Bosnia and Herzegovina,127.48,Hikikomi-gaeshi,No score,31
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0042,YULDOSHEV Murodjon,YULDOSHEV Murodjon,HEBIB Mustafa,Uzbekistan,Bosnia and Herzegovina,526.01,Sasae-tsurikomi-ashi,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0043,SHEMESH Inbal,TOPRAK Acelya,SHEMESH Inbal,Great Britain,Israel,57.97,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0043,SHEMESH Inbal,TOPRAK Acelya,SHEMESH Inbal,Great Britain,Israel,126.28,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0043,SILVA Nauana,KOWALEWSKA Aleksandra,SILVA Nauana,Poland,Brazil,261.49,Ko-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0043,SILVA Nauana,KOWALEWSKA Aleksandra,SILVA Nauana,Poland,Brazil,300.27,Seoi-nage,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0043,SWAN Maria,SWAN Maria,XU Huanting,Australia,People's Republic of China,182.49,O-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0043,SWAN Maria,SWAN Maria,XU Huanting,Australia,People's Republic of China,197.00,Kuzure-kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0043,SWAN Maria,SWAN Maria,XU Huanting,Australia,People's Republic of China,197.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0043,KONDO Hayato,KONDO Hayato,AJENA Omran,Japan,Syrian Arab Republic,61.75,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0043,KONDO Hayato,KONDO Hayato,AJENA Omran,Japan,Syrian Arab Republic,155.25,Tate-shiho-gatame,Yuko,25
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0043,KONDO Hayato,KONDO Hayato,AJENA Omran,Japan,Syrian Arab Republic,155.25,Osaekomi,Yuko,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0043,KONDO Hayato,KONDO Hayato,AJENA Omran,Japan,Syrian Arab Republic,195.49,Illegal-Grip-Breaking,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0043,KONDO Hayato,KONDO Hayato,AJENA Omran,Japan,Syrian Arab Republic,235.20,Two-hand-grip-avoidance,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0043,KYRGYZBAYEV Gusman,KYRGYZBAYEV Gusman,TUMURKHUU Turbold,Kazakhstan,Mongolia,255.23,Hold-Trouser-Leg,HSK (3rd shido),113
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0043,VALERIANI Leonardo,VALERIANI Leonardo,RUEBO Jano,Italy,Germany,60.94,Ko-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0043,OMAROV Gadzhimurad,OMAROV Gadzhimurad,BIBITKO Itay,United Arab Emirates,Israel,89.54,Ura-nage,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0043,OMAROV Gadzhimurad,OMAROV Gadzhimurad,BIBITKO Itay,United Arab Emirates,Israel,210.60,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0043,OMAROV Gadzhimurad,OMAROV Gadzhimurad,BIBITKO Itay,United Arab Emirates,Israel,276.32,Ko-soto-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0043,OMAROV Gadzhimurad,OMAROV Gadzhimurad,BIBITKO Itay,United Arab Emirates,Israel,355.00,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0043,OMAROV Gadzhimurad,OMAROV Gadzhimurad,BIBITKO Itay,United Arab Emirates,Israel,355.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0043,BU Hebilige,BARTO Alex,BU Hebilige,Slovakia,People's Republic of China,67.24,Hold-Trouser-Leg,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0043,BU Hebilige,BARTO Alex,BU Hebilige,Slovakia,People's Republic of China,218.77,Sumi-gaeshi,Yuko,31
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0043,BU Hebilige,BARTO Alex,BU Hebilige,Slovakia,People's Republic of China,270.03,Tate-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0043,BU Hebilige,BARTO Alex,BU Hebilige,Slovakia,People's Republic of China,270.03,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0044,EFIMOVA Karina,EFIMOVA Karina,ZHANG Yuanli,Russian Federation,People's Republic of China,476.54,O-soto-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0044,UBASART MASCARO Carla,TERRANOVA Michela,UBASART MASCARO Carla,Italy,Spain,64.68,Cancel Shido,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0044,UBASART MASCARO Carla,TERRANOVA Michela,UBASART MASCARO Carla,Italy,Spain,177.76,Tani-otoshi,Yuko,35
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0044,UBASART MASCARO Carla,TERRANOVA Michela,UBASART MASCARO Carla,Italy,Spain,268.18,Escape-With-Head,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0044,UBASART MASCARO Carla,TERRANOVA Michela,UBASART MASCARO Carla,Italy,Spain,320.76,Hikikomi-gaeshi,Waza-ari,31
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0044,NOVITSKY Adelina,ASKHAT Azhar,NOVITSKY Adelina,Kazakhstan,Israel,11.44,Cancel Waza-ari,Yuko,123
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0044,NOVITSKY Adelina,ASKHAT Azhar,NOVITSKY Adelina,Kazakhstan,Israel,11.44,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0044,SUGIMURA Mizuki,SUGIMURA Mizuki,FERNANDEZ CAMPILLO Sara,Japan,Spain,195.25,Ashi-guruma,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0044,SUGIMURA Mizuki,SUGIMURA Mizuki,FERNANDEZ CAMPILLO Sara,Japan,Spain,210.00,Kesa-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0044,SUGIMURA Mizuki,SUGIMURA Mizuki,FERNANDEZ CAMPILLO Sara,Japan,Spain,210.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0044,AN Sin Hyok,RAMAZANOV Mekan,AN Sin Hyok,Turkmenistan,Democratic People's Republic of Korea,45.43,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0044,NURKOVIC Jusuf,NURKOVIC Jusuf,AHN Hyunwoo,Montenegro,Republic of Korea,221.32,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0044,NURKOVIC Jusuf,NURKOVIC Jusuf,AHN Hyunwoo,Montenegro,Republic of Korea,221.32,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0044,VARDANIAN Narek,VARDANIAN Narek,DEMIREL Muhammed,Sweden,Türkiye,158.05,Escape-With-Head,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0044,MEUWSEN Timothy,SULCA Adrian,MEUWSEN Timothy,Romania,South Africa,618.09,O-goshi,Waza-ari,30
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0044,VARAPAYEU Yahor,VARAPAYEU Yahor,KOTSOEV Aslan,Belarus,Azerbaijan,326.26,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0044,VARAPAYEU Yahor,VARAPAYEU Yahor,KOTSOEV Aslan,Belarus,Azerbaijan,341.02,Kataha-jime,Ippon,27
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0045,FUJISHIRO Kokoro,FUJISHIRO Kokoro,OMIROVA Narjemal,Japan,Turkmenistan,58.72,Sode-tsurikomi-goshi,Waza-ari,30
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0045,FUJISHIRO Kokoro,FUJISHIRO Kokoro,OMIROVA Narjemal,Japan,Turkmenistan,92.00,Yoko-shiho-gatame,Waza-ari-awasete-ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0045,FUJISHIRO Kokoro,FUJISHIRO Kokoro,OMIROVA Narjemal,Japan,Turkmenistan,92.00,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0045,TAMAOKI Momo,TAMAOKI Momo,YANG Yufei,Japan,People's Republic of China,293.00,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0045,TAMAOKI Momo,TAMAOKI Momo,YANG Yufei,Japan,People's Republic of China,293.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0045,BUTKEREIT Miriam,BUTKEREIT Miriam,RAZZOKBERDIEVA Khurshida,Germany,Uzbekistan,81.00,Kuzure-kami-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0045,BUTKEREIT Miriam,BUTKEREIT Miriam,RAZZOKBERDIEVA Khurshida,Germany,Uzbekistan,81.00,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0045,BOEHM Alina,BOEHM Alina,OTGONBAYAR Khuslen,Germany,Mongolia,6.99,Fusen-Gachi,Ippon,121
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0045,BLIEV Ayub,BLIEV Ayub,SUN Jiaxu,Russian Federation,People's Republic of China,83.28,O-uchi-gari,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0045,BLIEV Ayub,BLIEV Ayub,SUN Jiaxu,Russian Federation,People's Republic of China,188.53,Uchi-mata,Ippon,29
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0045,LIMA Ronald,LIMA Ronald,RAHIMOV Serdar,Brazil,Turkmenistan,180.04,Hold-Sleeve-Ends,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0045,LIMA Ronald,LIMA Ronald,RAHIMOV Serdar,Brazil,Turkmenistan,564.01,Seoi-nage,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-73,gp_chn2026_0001_m_0073_0045,MAMMADALIYEV Rashid,MAMMADALIYEV Rashid,CADIGNAN Nathan,Azerbaijan,France,452.21,Tai-otoshi,Yuko,33
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0045,CASSE Matthias,CASSE Matthias,PONS Bastien,Belgium,France,393.03,Kansetsu waza from tachi waza,Shido,113
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0045,CASSE Matthias,CASSE Matthias,PONS Bastien,Belgium,France,419.98,Cancel Ippon,No score,123
+Qingdao Grand Prix 2026,2026-06-26,-81,gp_chn2026_0001_m_0081_0045,CASSE Matthias,CASSE Matthias,PONS Bastien,Belgium,France,741.73,Soto-makikomi,Ippon,35
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0045,RUTOVIC Boris,RUTOVIC Boris,KUDIEV Kurban,Serbia,Russian Federation,89.06,Sode-tsurikomi-goshi,Yuko,30
+Qingdao Grand Prix 2026,2026-06-26,-90,gp_chn2026_0001_m_0090_0045,RUTOVIC Boris,RUTOVIC Boris,KUDIEV Kurban,Serbia,Russian Federation,372.81,Outside-Contest-Area,HSK (3rd shido),112
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0046,KALETA Aleksandra,KALETA Aleksandra,ALIYEVA Leyla,Poland,Azerbaijan,62.04,Uchi-mata,Waza-ari,29
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0046,KALETA Aleksandra,KALETA Aleksandra,ALIYEVA Leyla,Poland,Azerbaijan,136.29,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-52,gp_chn2026_0002_f_0052_0046,KALETA Aleksandra,KALETA Aleksandra,ALIYEVA Leyla,Poland,Azerbaijan,149.27,Juji-gatame,Ippon,24
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0046,MUKHINA Olga,MUKHINA Olga,BOZKURT Hasret,Russian Federation,Türkiye,230.33,Sumi-otoshi,Waza-ari,33
+Qingdao Grand Prix 2026,2026-06-26,-57,gp_chn2026_0002_f_0057_0046,MUKHINA Olga,MUKHINA Olga,BOZKURT Hasret,Russian Federation,Türkiye,263.05,Osaekomi,Waza-ari-awasete-ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0046,BADUROVA Kamila,BADUROVA Kamila,ORUC Sinem,Russian Federation,Türkiye,209.55,Escape-With-Head,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0046,BADUROVA Kamila,BADUROVA Kamila,ORUC Sinem,Russian Federation,Türkiye,303.49,Defensive-Posture,Shido,112
+Qingdao Grand Prix 2026,2026-06-26,-70,gp_chn2026_0002_f_0070_0046,BADUROVA Kamila,BADUROVA Kamila,ORUC Sinem,Russian Federation,Türkiye,482.02,Illegal-Grip-Breaking,HSK (3rd shido),111
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0046,GULENAY Tuana,MA Zhenzhao,GULENAY Tuana,People's Republic of China,Türkiye,60.24,Unorthodox kumi-kata too long,Shido,111
+Qingdao Grand Prix 2026,2026-06-26,-78,gp_chn2026_0002_f_0078_0046,GULENAY Tuana,MA Zhenzhao,GULENAY Tuana,People's Republic of China,Türkiye,387.76,O-uchi-gari,Yuko,29
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0046,BOTUROV Bakhrom,ISMAEL Diego,BOTUROV Bakhrom,Brazil,Uzbekistan,148.17,Yoko-shiho-gatame,Ippon,25
+Qingdao Grand Prix 2026,2026-06-26,-60,gp_chn2026_0001_m_0060_0046,BOTUROV Bakhrom,ISMAEL Diego,BOTUROV Bakhrom,Brazil,Uzbekistan,148.17,Osaekomi,Ippon,124
+Qingdao Grand Prix 2026,2026-06-26,-66,gp_chn2026_0001_m_0066_0046,HAMROYEV Dilshodbek,HAMROYEV Dilshodbek,DE TULLIO Giuseppe,Uzbekistan,Italy,161.70,O-uchi-gari,Yuko,29
