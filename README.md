@@ -12,7 +12,8 @@ Automated extraction and analysis of IJF competition event data to study scoring
 - Pandas
 - Matplotlib
 - Seaborn
-- Power BI
+- NumPy
+- SciPy
 
 ## Findings
 (To be completed after analysis)
