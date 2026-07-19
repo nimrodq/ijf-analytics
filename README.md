@@ -1,7 +1,6 @@
-# Judo Throw Effectiveness Analysis
+# International Judo Technique Analytics Pipeline
 
-## Objective
-Analyze competition data to identify which judo throwing techniques are most effective.
+Automated extraction and analysis of IJF competition event data to study scoring techniques, Ippon conversion rates, and technical differences across weight categories.
 
 ## Questions
 - Which throws appear most frequently?
