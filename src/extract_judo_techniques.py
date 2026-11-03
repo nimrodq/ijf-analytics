@@ -5,7 +5,10 @@ import time
 
 BASE_URL = "https://data.ijf.org/api/get_json"
 
-COMPETITION_ID = "3204"   # Qingdao Grand Prix 2026
+COMPETITION_ID = "2653"   
+# Qingdao Grand Prix 2026 (3204)
+# World Judo Championships 2025 (2877)
+# Olympic Games Paris 2024 (2653)
 
 
 def get_contests(competition_id):
@@ -39,12 +42,20 @@ def get_events(contest_code):
         "params[part]": "events"
     }
 
-    response = requests.get(BASE_URL, params=params)
+    response = requests.get(
+    BASE_URL,
+    params=params,
+    timeout=30
+    )
+
     response.raise_for_status()
 
     data = response.json()
 
-    return data["contests"][0]["events"]
+    if not data.get("contests"):
+        return []
+
+    return data["contests"][0].get("events", [])
 
 
 
@@ -206,8 +217,24 @@ def main():
     )
 
 
+    from pathlib import Path
+
+    BASE_DIR = Path(__file__).resolve().parent.parent
+
+    OUTPUT_PATH = (
+        BASE_DIR
+        / "data"
+        / "processed"
+        / "judo_techniques.csv"
+    )
+
+    OUTPUT_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
     df.to_csv(
-        "data/processed/judo_techniques.csv",
+        OUTPUT_PATH,
         index=False
     )
 
